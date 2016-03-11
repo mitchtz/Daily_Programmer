@@ -1,0 +1,642 @@
+Looking for: What a time, to be alive. with max fitness of 25
+Population size: 500
+Crossover rate: 0.5
+Mutation rate: 0.01
+Max number of generations: 2000
+Time to run: 2.0903561115264893
+Solution found on generation: 317
+Best fit found: [25, 'What a time, to be alive.']
+Generation 0
+[3, '(=&+JLGt"Lj[VtOFrs E-VTEh']
+Generation 1
+[3, '}PK"MbkKi!E!zuFyb-||GiZ]R']
+Generation 2
+[4, '*iMiiN Hvm<)gGVGwPNaKi`={']
+Generation 3
+[3, 'WL+tqHqDfw=Rq\\u#gXqX?DdeJ']
+Generation 4
+[3, '_maWPYdN#.B+gGVGwPNaKi`={']
+Generation 5
+[4, '*iMiiN Hvm<)gGVGwPNaKi`=(']
+Generation 6
+[4, '*iMiiN Hvm<)gGVGwPNaKi`={']
+Generation 7
+[4, '!hrpu=|txOe/|z@mb O#%YsXS']
+Generation 8
+[4, '*iMiiN Hvm<AgGVGwPNa.i`={']
+Generation 9
+[4, '*iMiiN Hvm<)gGVGwPNaKi`={']
+Generation 10
+[4, 'p{StW<}tmWFdgGVGwPNaIi`={']
+Generation 11
+[4, 'p{StW<}tmWFdgGVG"PNaKi]={']
+Generation 12
+[4, 'p{StW<}LmmFdzuFyb-|\\GiZ]:']
+Generation 13
+[4, '}tMiiN Hvm<)gGVGwPNaKi`={']
+Generation 14
+[4, 'p{StW<}tmWFdgjVGwPNaKi`={']
+Generation 15
+[4, 'wL+tqaq@fO=RgGVGwPNagi`={']
+Generation 16
+[4, 'wL+tqaq@fO=RgGVGwPNaKi`={']
+Generation 17
+[5, '*iMiia Hgm<)gGVGwP+aKi`=m']
+Generation 18
+[5, '*iMiia Hgm<)gGVGwPNaKi`=<']
+Generation 19
+[5, '*iMiia Hgm<)gGVGwaNaKi`=q']
+Generation 20
+[5, 'vdrtq=|txOe&gGVGwPNagi`={']
+Generation 21
+[5, 'vdrtq=|txOe&gGVJwPNaKi`]{']
+Generation 22
+[5, 'poStW<}LioedgGVPwPNaIi`={']
+Generation 23
+[5, 'qhStW<}LioF{gGVPwPNaIi`={']
+Generation 24
+[5, 'qhStW<}LioF{zubyb-m\\GiZ]R']
+Generation 25
+[5, 'ui;iba Hgm<gzGVGmPNajiA=_']
+Generation 26
+[6, '!drtqa|txOe&gGVGwaNaKi`=q']
+Generation 27
+[5, 'wL+tqaq@fO=RgtVRwPNaKi`={']
+Generation 28
+[5, 'qhStW<}mioF{uGVGwzNaKi`={']
+Generation 29
+[6, '*i;iba Hgm<ggtVRwPNaKi`={']
+Generation 30
+[6, 'WhStW<}LDoF{g\\VGwlNa)i`e{']
+Generation 31
+[6, 'qhStW<NLioF{gtVkwPNaKi`={']
+Generation 32
+[6, 'poatM<}>ioFdgGoGwPNaKi`={']
+Generation 33
+[6, '*i;iba Hgm<ggtVkwPNaKi`={']
+Generation 34
+[6, 'qhSth<VLioF{gtVkwPNaKi`={']
+Generation 35
+[6, '|{StW<HtiWF/gtVkwPNaKi`={']
+Generation 36
+[6, '|{StW<HtiWF/gtVRwPNaKi`={']
+Generation 37
+[6, 'wLftqaqtfO=RgtVRwPNaKi`={']
+Generation 38
+[6, '|{StW<HtiWF/gtxkwPNaKi`={']
+Generation 39
+[7, '@iMi N Hgm<)gtxkwP aKi`={']
+Generation 40
+[7, 'qhStW<}tioF{gtskwPNaKi`={']
+Generation 41
+[7, 'qhStW<}tioF{gtVjwPNaKi`={']
+Generation 42
+[7, 'chStWa}mioF{g[VJbPNaKi`]{']
+Generation 43
+[7, 'qhStW<}LioF{gtokwPNaKi`={']
+Generation 44
+[7, 'qhStW<}mim}{gGVGmP:aji`e_']
+Generation 45
+[7, 'qhhtW<}mioF{QtVkwPNali`z{']
+Generation 46
+[7, 'qhStWa}mioF_>tVkwPNaKi`={']
+Generation 47
+[7, 'qiMi N Hgm<)gtV{wWNaKi`e{']
+Generation 48
+[7, '|{St <HtiWF/QtVkwPNaKi`={']
+Generation 49
+[7, '|{St <HtiWF/gtVkZPuaKi`={']
+Generation 50
+[8, 'qhStZ<}Jim}@gtkkwgNa\\iv={']
+Generation 51
+[8, 'qhStWa}mioF_QtVkwPNali_z{']
+Generation 52
+[8, '|{St <HtiWF/gtkkwgNa\\iv={']
+Generation 53
+[9, "WhSt )}mi'F{QtV:=PNali`z{"]
+Generation 54
+[8, '|{St <HtiWF/gtkkwgNa\\iv={']
+Generation 55
+[8, '|{StW<HtiWF/gtk wgNa\\iv={']
+Generation 56
+[9, 'phStW<#tioF?gtk wgNa\\iv={']
+Generation 57
+[9, 'qhStca}mioF_QtVkbPpali<z{']
+Generation 58
+[9, 'qhStZk}mim}@gtk wgNa\\iv={']
+Generation 59
+[9, '}h*tWa}mioy#gtk wgNaWiv={']
+Generation 60
+[9, 'qhStZ<}mim}@gtk wgNaWiv={']
+Generation 61
+[9, 'qhStZk}mim}@gtk wgNaWiv={']
+Generation 62
+[10, 'phSt <GtioF?gtkkwg^aliv={']
+Generation 63
+[10, 'phSt <GtioF?gtkkwg^aliv={']
+Generation 64
+[10, 'phctW<ItioF?gtk wgNaWiv=.']
+Generation 65
+[10, 'phStW<ItioF?gtk wgNaWiv=.']
+Generation 66
+[9, 'qhStZ<}mim}@gtk wgNaWiv={']
+Generation 67
+[9, '}hUtWa}mioy{gtokw%Na\\ivR{']
+Generation 68
+[9, '}hUtWa}mioy{gtk wxNaWiv={']
+Generation 69
+[9, '|{StWaHtisB/gtk wgNaWiv={']
+Generation 70
+[10, 'qhSt a}mioF_gtk wg)aWiv={']
+Generation 71
+[10, '}h*tWa}tihy#gtk wg)aWiv={']
+Generation 72
+[10, 'phSt <GtiqF?gtk wg)aWiv={']
+Generation 73
+[10, '}h*tWa}tihy#gtk wgNaWiv={']
+Generation 74
+[10, 'qhSt a}mioZ_gtk wgNaWiv=R']
+Generation 75
+[10, 'qhSt a}mioZ_gtk wgNaWiv={']
+Generation 76
+[10, 'qhUt a}mioF,gtkkWgNa\\iv={']
+Generation 77
+[10, '}h*tWa}tihy#gtk wg+aWiv={']
+Generation 78
+[11, 'Wh#tW<stioJ?gtokw%Na\\ive{']
+Generation 79
+[11, 'qhSt a}mioF_gtokw%Na\\ive{']
+Generation 80
+[11, 'qhSt a-mioF_gtokw%Na\\ive{']
+Generation 81
+[11, 'qhSt a}miog_Dtokw%Na\\ive{']
+Generation 82
+[11, 'qhStZ<Ptim}@gtokw%Na\\ive{']
+Generation 83
+[11, 'qhStZ<Wtim}@gtokw%Na!ive{']
+Generation 84
+[11, '}h*tWa}tiS$#gtokw% a\\ivRP']
+Generation 85
+[11, '}h*tWa}tiS$#gtokweNa\\iv;{']
+Generation 86
+[11, '}hotWa=mioy,Dtokw%Na\\ive{']
+Generation 87
+[11, '}hotWa=mioy,gtokw%Na!ive{']
+Generation 88
+[12, 'qhSt a}mioF_^tokwe a\\ivRP']
+Generation 89
+[11, '}hotWa=mioy,gtokw% a\\ivR@']
+Generation 90
+[11, '}hotWa=mioy,gtokw%Na:ive{']
+Generation 91
+[11, '}hotWa=mioy,gtokw% a\\ivRP']
+Generation 92
+[12, 'qhat a}xioFLDtokw%Na\\ive{']
+Generation 93
+[11, '}hotqa>mioy,Dtokw%Na\\ivem']
+Generation 94
+[12, '}h*t a}tiS$#gtokw% a\\ivR@']
+Generation 95
+[12, 'qhat a}xio`_Dtokw%Na\\ive{']
+Generation 96
+[12, "zhSt a'mimF_Dtoki%Na\\ive{"]
+Generation 97
+[13, 'qhat a}xioF_gtokw% alivRP']
+Generation 98
+[12, 'zhat a}xio`_Etokw%Na\\ive{']
+Generation 99
+[12, '}h*tWa}tiS$#gtokw% alivRP']
+Generation 100
+[13, "zhSt a'mimF_gtokw% aliv]P"]
+Generation 101
+[13, "zhSt a'mimF_gtokw% alivRP"]
+Generation 102
+[13, "zhSt a'mimF_gtokw% aliv]P"]
+Generation 103
+[13, '~hat a}xio`ygtokw% aliv]P']
+Generation 104
+[13, "zhSt a'mimF_gtokw% alivRP"]
+Generation 105
+[13, 'zhat a}xio`_gtokw% aliv]P']
+Generation 106
+[13, "zhSt a'mimF_gtokw% aliv]P"]
+Generation 107
+[13, 'zhat a}xio`_gtokw% aliv]P']
+Generation 108
+[13, 'zhat a}xio`_{tokb%Na\\ive{']
+Generation 109
+[13, "zhlt a'mimF_gtokw% alivRP"]
+Generation 110
+[14, "zhSt a'mimF_gtokwe alivRP"]
+Generation 111
+[14, 'qhat a}xio`_gtokwe alivRP']
+Generation 112
+[14, 'qhat a}xioj_gtokwe alivRP']
+Generation 113
+[14, 'qhat a}xi~`_gtokwe alivRP']
+Generation 114
+[14, "zhSt a'mim$_gtokwe alivRP"]
+Generation 115
+[14, 'zhSt admimF_gtokwe alivRP']
+Generation 116
+[14, "zhSt a'mimK_gtokwe alivRP"]
+Generation 117
+[14, "zhSt a'mimF_gtokwe alivRP"]
+Generation 118
+[14, 'zhat a}xiP`_gtokwe alivRP']
+Generation 119
+[14, 'zhat a}xio`_gtokwe alivRP']
+Generation 120
+[15, 'qhat a}xioj,gtokwe alivRP']
+Generation 121
+[14, 'zhat a}xit`_,tok>- aliveP']
+Generation 122
+[14, 'zhmt armimFUgtokwe alivRP']
+Generation 123
+[15, 'qhat a}xioj,gtokwe alivRP']
+Generation 124
+[14, '{hSt a)mimF_gtokwe alivRP']
+Generation 125
+[15, 'qhat a}xioj,gtotw% aliveP']
+Generation 126
+[14, '{hot a)mimF_Sto ZW alivRw']
+Generation 127
+[14, "{hSt a'mimK_gtokwe alivRP"]
+Generation 128
+[14, "{hSt a'mimK_,tok>- aliveZ"]
+Generation 129
+[15, 'qhat a}xioj, tok!% aliv]a']
+Generation 130
+[14, '{hSt apmimK_,tok>- aliveZ']
+Generation 131
+[15, 'qhat a}xi(j,Mtokw% aliveP']
+Generation 132
+[15, 'qhat a}xi(j,gtokwe alivRP']
+Generation 133
+[15, "Wh!t a'mim ggtokwe alivRP"]
+Generation 134
+[15, "Wh!t a'mim ggtokwe alivRP"]
+Generation 135
+[15, 'qhat a}xi(j,gtokwe alivRP']
+Generation 136
+[15, 'qhat a}xi(j,gtokwe alivRP']
+Generation 137
+[15, 'qhat a}xi(j,gtokwe alivRP']
+Generation 138
+[15, 'qhat a}xi(j,gtokwe aliv.P']
+Generation 139
+[15, 'qhat a}xi(j,gtokwe alivRP']
+Generation 140
+[15, "zhat a'mimL_gtokwe aliv.O"]
+Generation 141
+[15, '{h/t a mimF_gtokwe alivRP']
+Generation 142
+[15, '{h/t a mimF_gtokwe alivRP']
+Generation 143
+[16, "Wh!t a'[im pgtokbe alivRP"]
+Generation 144
+[16, 'qhat a}Iimj,gtokwe alivRP']
+Generation 145
+[16, 'qhat a}Iimj,,tok>* aliveP']
+Generation 146
+[16, 'qhat a}Iimj,gto`we alivRP']
+Generation 147
+[16, 'uhat a}Ii(e,gtokwe alivRP']
+Generation 148
+[16, "What a'mim ggtokwe alivRP"]
+Generation 149
+[16, '=hat a}ui(j,gtokbe alivTP']
+Generation 150
+[16, "Wh!t a'mim ggtokbe alivTP"]
+Generation 151
+[15, '{hSt attimK_|tok>* aliveP']
+Generation 152
+[16, "Wh!t a'mim g,tok>O alive."]
+Generation 153
+[15, '{hSt attimK_gtovwe alivIP']
+Generation 154
+[16, '{hSt attimK_,tok>O alive.']
+Generation 155
+[16, 'uhat a}Ii(j,,tok>O alive.']
+Generation 156
+[16, 'uhat a}Ii(j,,tok>O alive.']
+Generation 157
+[16, 'xhat a}ei(j,,tok>O alive.']
+Generation 158
+[16, 'xhat a}xi(j,,tok>O alive.']
+Generation 159
+[16, '{hSt attimK_,tok>O alive.']
+Generation 160
+[16, '{h/t a mimZ_,tok>O alive.']
+Generation 161
+[17, 'qhat a}ximj,,tok>O alive.']
+Generation 162
+[17, 'qhat a}ximj,,tok>O alive.']
+Generation 163
+[17, 'qhat a}ximj,,tok>t alive.']
+Generation 164
+[17, 'qhat a}ximj,,tok>O alive.']
+Generation 165
+[17, 'uhat a}Ii(j,,to >O alive.']
+Generation 166
+[17, '{h/t a mimZ_,to >O alive.']
+Generation 167
+[17, 'xhat a}xi(w,,to >O alive.']
+Generation 168
+[18, 'qhat a}ximh,,to >O alive.']
+Generation 169
+[18, 'qhat a}ximj,,to >O alive.']
+Generation 170
+[18, 'qhat a}ximj,,to >O alive.']
+Generation 171
+[18, 'qhat a}ximj,,to ZO alive.']
+Generation 172
+[18, 'qhat a}ximm,,to ZO alive.']
+Generation 173
+[18, 'uhat a}Iim*,,to ZO alive.']
+Generation 174
+[18, 'uhat a}Iim*,,to >O alive.']
+Generation 175
+[18, 'uhat a}Iim*,,to >O alive.']
+Generation 176
+[18, 'uhat a}Iim*,,to ZO alive.']
+Generation 177
+[18, 'qhat a}ximu,,to >O alive.']
+Generation 178
+[18, 'uhat a}Iim*,,to ZO alive.']
+Generation 179
+[18, 'uhat a}Iim*,,to ZO alive.']
+Generation 180
+[18, 'zhat a}+imj,,to ZO alive.']
+Generation 181
+[18, '{h/t a mime{,to >O alive.']
+Generation 182
+[18, 'zhat a}+imj,{tokbO alive.']
+Generation 183
+[18, 'zhat a}+imj,,to >O alive.']
+Generation 184
+[18, '{hat a}ximj,,to >O alive.']
+Generation 185
+[18, '{hat a}ximj,,to QO alive.']
+Generation 186
+[18, '{hat a}ximj,,to Z- alive.']
+Generation 187
+[18, '{hat a}ximj,,to Z% alive.']
+Generation 188
+[18, '{hat a}ximj,,to ZO alive.']
+Generation 189
+[19, 'uhat a}Iim*,qto bO alive.']
+Generation 190
+[19, 'qhat a}himj,qto bO alive.']
+Generation 191
+[19, 'uhat a}Iim*,qto bO alive.']
+Generation 192
+[19, 'uhat a}Iim*,qto bO alive.']
+Generation 193
+[20, 'qhat a}xime,qto bO alive.']
+Generation 194
+[19, 'uhat a}uim*,qto bO alive.']
+Generation 195
+[19, '{hat a}ximj,qto bO alive.']
+Generation 196
+[19, '{hat a}ximj,qto bO alive.']
+Generation 197
+[20, 'qhat a}xime,qto bO alive.']
+Generation 198
+[19, '{hat a}ximj,nto bm alive.']
+Generation 199
+[19, '{hat a}ximj,qto bO alive.']
+Generation 200
+[20, 'qhat a}xime,qto bO alive.']
+Generation 201
+[20, 'What a}xim\\,qto bO alive.']
+Generation 202
+[20, 'What a}tim^,,to Z% alive.']
+Generation 203
+[20, 'qhat a}xime,qto bO alive.']
+Generation 204
+[20, 'qhat a}tim^,qto bO alive.']
+Generation 205
+[21, 'What a}tim^,qto bO alive.']
+Generation 206
+[20, 'qhat a}xime,qto bO alive.']
+Generation 207
+[20, 'qhat a}xime,qto bO alive.']
+Generation 208
+[21, 'What a}tim^,qto bO alive.']
+Generation 209
+[20, 'uhat a}Iime,oto b% alive.']
+Generation 210
+[21, 'What a}tim^,qto bO alive.']
+Generation 211
+[21, 'What a}tim^,qto bm alive.']
+Generation 212
+[21, 'What a}tim^,qto bO alive.']
+Generation 213
+[21, 'What a}tim^,qto bO alive.']
+Generation 214
+[21, 'What a}tim^,qto bO alive.']
+Generation 215
+[21, 'What a}tim^,qto bO alive.']
+Generation 216
+[21, 'What a}tim^,qto bm alive.']
+Generation 217
+[21, 'What a}tim^,qto bm alive.']
+Generation 218
+[21, 'What a}tim^,qto bO alive.']
+Generation 219
+[21, 'What a}tim^,|to bO alive.']
+Generation 220
+[22, 'What a}tim^, to bm alive.']
+Generation 221
+[21, 'qhat a}xime, to bm alive.']
+Generation 222
+[22, 'What a}tim^,qto be alive.']
+Generation 223
+[22, 'What a}tim^, to bm alive.']
+Generation 224
+[22, 'What a}tim^, to bm alive.']
+Generation 225
+[22, 'What a}tim^, to bm alive.']
+Generation 226
+[22, 'What a}tim^, to bm alive.']
+Generation 227
+[22, 'What a}tim^, to bm alive.']
+Generation 228
+[22, 'What a}tim^, to bm alive.']
+Generation 229
+[22, 'What a}tim^, to bo alive.']
+Generation 230
+[22, 'What a}tim^, to bm alive.']
+Generation 231
+[22, 'What a}tim^, to bm alive.']
+Generation 232
+[22, 'What a}timd, to bm alive.']
+Generation 233
+[22, 'What a}tim^, to bo alive.']
+Generation 234
+[22, 'What a}timd, to bO alive.']
+Generation 235
+[22, 'What a}timo, to bo alive.']
+Generation 236
+[22, 'What a}timo, to b$ alive.']
+Generation 237
+[22, 'What a}timg, to bm alive.']
+Generation 238
+[23, 'What a tim^, to bm alive.']
+Generation 239
+[22, 'What a}timx, to b$ alive.']
+Generation 240
+[22, 'What a}timm, to bm alive.']
+Generation 241
+[22, 'What a}timm, to bm alive.']
+Generation 242
+[22, 'What a}timm, to bm alive.']
+Generation 243
+[22, 'What a}timr, to b: alive.']
+Generation 244
+[22, 'What a}timr, to bO alive.']
+Generation 245
+[22, 'What a}timr, to bm alive.']
+Generation 246
+[22, 'What a}timr, to b@ alive.']
+Generation 247
+[22, 'What a}tim}, to bO alive.']
+Generation 248
+[23, 'What a}timg, to be alive.']
+Generation 249
+[23, 'What a}tim^, to be alive.']
+Generation 250
+[23, 'What a}tim^, to be alive.']
+Generation 251
+[23, 'What a}time, to bm alive.']
+Generation 252
+[23, 'What a}timg, to be alive.']
+Generation 253
+[23, 'What a}time, to bc alive.']
+Generation 254
+[23, 'What a}time, to b@ alive.']
+Generation 255
+[23, 'What a}time, to bm alive.']
+Generation 256
+[23, 'What a}timx, to be alive.']
+Generation 257
+[23, 'What a}timg, to be alive.']
+Generation 258
+[23, 'What a}time, to bz alive.']
+Generation 259
+[23, 'What a}timg, to be alive.']
+Generation 260
+[23, 'What a}time, to bm alive.']
+Generation 261
+[23, 'What a}timm, to be alive.']
+Generation 262
+[23, 'What a}time, to bm alive.']
+Generation 263
+[23, 'What a}time, to bz alive.']
+Generation 264
+[23, 'What a}time, to bm alive.']
+Generation 265
+[23, 'What a}time, to bz alive.']
+Generation 266
+[23, 'What a}time, to bz alive.']
+Generation 267
+[23, 'What a}time, to bz alive.']
+Generation 268
+[23, 'What a}time, to bz alive.']
+Generation 269
+[23, 'What a}time, to bz alive.']
+Generation 270
+[23, 'What a}time, to bz alive.']
+Generation 271
+[23, 'What a}time, to bz alive.']
+Generation 272
+[23, 'What a}time, to bz alive.']
+Generation 273
+[23, 'What a}time, to bz alive.']
+Generation 274
+[23, 'What a}time, to b{ alive.']
+Generation 275
+[24, 'What a}time, to be alive.']
+Generation 276
+[23, 'What a}tim}, to be alive.']
+Generation 277
+[23, 'What a}tim{, to be alive.']
+Generation 278
+[23, 'What a}timu, to be alive.']
+Generation 279
+[23, 'What a}timu, to be alive.']
+Generation 280
+[24, 'What a}time, to be alive.']
+Generation 281
+[24, 'What a}time, to be alive.']
+Generation 282
+[24, 'What a}time, to be alive.']
+Generation 283
+[24, 'What a}time, to be alive.']
+Generation 284
+[24, 'What a}time, to be alive.']
+Generation 285
+[24, 'What a}time, to be alive.']
+Generation 286
+[24, 'What a}time, to be alive.']
+Generation 287
+[24, 'What a}time, to be alive.']
+Generation 288
+[24, 'What a}time, to be alive.']
+Generation 289
+[24, 'What a}time, to be alive.']
+Generation 290
+[24, 'What a}time, to be alive.']
+Generation 291
+[24, 'What a}time, to be alive.']
+Generation 292
+[24, 'What a}time, to be alive.']
+Generation 293
+[24, 'What a}time, to be alive.']
+Generation 294
+[24, 'What a}time, to be alive.']
+Generation 295
+[24, 'What a}time, to be alive.']
+Generation 296
+[24, 'What a}time, to be alive.']
+Generation 297
+[24, 'What a}time, to be alive.']
+Generation 298
+[24, 'What a}time, to be alive.']
+Generation 299
+[24, 'What a}time, to be alive.']
+Generation 300
+[24, 'What a}time, to be alive.']
+Generation 301
+[24, 'What a}time, to be alive.']
+Generation 302
+[24, 'What a}time, to be alive.']
+Generation 303
+[24, 'What a}time, to be alive.']
+Generation 304
+[24, 'What a}time, to be alive.']
+Generation 305
+[24, 'What a}time, to be alive.']
+Generation 306
+[24, 'What a~time, to be alive.']
+Generation 307
+[24, 'What a~time, to be alive.']
+Generation 308
+[24, 'What a~time, to be alive.']
+Generation 309
+[24, 'What a~time, to be alive.']
+Generation 310
+[24, 'What a~time, to be alive.']
+Generation 311
+[24, 'What a~time, to be alive.']
+Generation 312
+[24, 'What a~time, to be alive.']
+Generation 313
+[24, 'What a~time, to be alive.']
+Generation 314
+[24, 'What a~time, to be alive.']
+Generation 315
+[24, 'What a~time, to be alive.']
+Generation 316
+[25, 'What a time, to be alive.']

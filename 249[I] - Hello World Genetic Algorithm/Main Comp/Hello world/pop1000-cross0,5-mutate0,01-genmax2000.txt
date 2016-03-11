@@ -1,0 +1,286 @@
+Looking for: Hello world
+Population size: 1000
+Crossover rate: 0.5
+Mutation rate: 0.01
+Max number of generations: 2000
+Time to run: 1.3218789100646973
+Solution found on generation: 139
+Best fit found: [11, 'Hello world']
+Generation 0
+[2, 'uNQl:qwQ! C']
+Generation 1
+[2, '}/J;od\\djlM']
+Generation 2
+[2, '~w[JiR]drlA']
+Generation 3
+[2, 'uNQl: ^-X[l']
+Generation 4
+[3, '*,;DoR]drlA']
+Generation 5
+[2, 'yp%eo~})$id']
+Generation 6
+[3, 'lVblGR]drlA']
+Generation 7
+[3, 'hSnPoR]drlA']
+Generation 8
+[3, 'q)lk$R]drlA']
+Generation 9
+[3, 'OolWn~w)$id']
+Generation 10
+[3, 'q)lk$R]drlA']
+Generation 11
+[3, 'jz,l*iw| lG']
+Generation 12
+[3, 'u,Ql:R]drlA']
+Generation 13
+[3, '~z,l*~w)$id']
+Generation 14
+[3, 'uejc!R]drlA']
+Generation 15
+[4, 'HVblGR]drlA']
+Generation 16
+[3, '~z,l*R]drl(']
+Generation 17
+[3, 'ypheoR]drlA']
+Generation 18
+[4, 'Hz,l* v ~l>']
+Generation 19
+[4, 'HVbl`:we[Nd']
+Generation 20
+[4, 'Hz,l*R]drlA']
+Generation 21
+[4, 'HVblG~w)$id']
+Generation 22
+[4, 'HVplG~w)$id']
+Generation 23
+[4, 'ypheo!woWl{']
+Generation 24
+[4, 'Hz,l*Dbokl$']
+Generation 25
+[5, 'HVblo v ~l>']
+Generation 26
+[5, 'HVbloy]drlA']
+Generation 27
+[5, 'HVblo~w)$id']
+Generation 28
+[5, 'HVplG v rl>']
+Generation 29
+[5, 'HXblG v rl>']
+Generation 30
+[6, 'HVblG vorl>']
+Generation 31
+[6, 'HVblp vorl>']
+Generation 32
+[6, 'HXblG vorl>']
+Generation 33
+[6, 'H^blG vorl>']
+Generation 34
+[6, 'Hp%oo vorl>']
+Generation 35
+[6, 'HVplG vorl>']
+Generation 36
+[6, 'HVblu vorl>']
+Generation 37
+[6, 'Hz,l* vorl>']
+Generation 38
+[6, 'Hz,l* vorl>']
+Generation 39
+[6, 'Hzpl* vorls']
+Generation 40
+[6, '~Vblo vorl>']
+Generation 41
+[6, '~Vblo vorl>']
+Generation 42
+[6, '~eblo ( rl>']
+Generation 43
+[6, '~eblo_vorl>']
+Generation 44
+[7, 'HVblo vorl>']
+Generation 45
+[7, 'HVblo vorl>']
+Generation 46
+[7, 'HVblo vorl>']
+Generation 47
+[7, '~eblo vorl>']
+Generation 48
+[7, '~eblo vorl>']
+Generation 49
+[7, '~eblo vorl>']
+Generation 50
+[7, '~eblo vorl>']
+Generation 51
+[7, '~eblo vorl>']
+Generation 52
+[7, '~eblo vorl>']
+Generation 53
+[7, '~eblo vorl>']
+Generation 54
+[7, '~e|lo vorl>']
+Generation 55
+[7, '~eblo wgrlA']
+Generation 56
+[7, '~eblo wgrlA']
+Generation 57
+[7, '~eblo wgrlA']
+Generation 58
+[8, '~eblo worl>']
+Generation 59
+[8, '~eblo vorld']
+Generation 60
+[7, '~e~lo vorlT']
+Generation 61
+[7, '~eylo vorl>']
+Generation 62
+[8, 'Hjblo worl>']
+Generation 63
+[7, '~eylo vorlY']
+Generation 64
+[8, '~ello vorl>']
+Generation 65
+[8, '~ello vorl>']
+Generation 66
+[7, '~e~lo wdrlA']
+Generation 67
+[7, '~e~lo wdrlA']
+Generation 68
+[7, '~e~lo wdrlA']
+Generation 69
+[7, '~e~lo wdrlA']
+Generation 70
+[8, 'He.lo vorlY']
+Generation 71
+[8, 'Heblo vorlY']
+Generation 72
+[8, 'Heblo wdrlA']
+Generation 73
+[8, 'Heblo zorl(']
+Generation 74
+[8, 'Heblo wdrlA']
+Generation 75
+[7, '~e~lo {orl>']
+Generation 76
+[8, '~ello wdrlC']
+Generation 77
+[8, '~ello {orl>']
+Generation 78
+[8, '~e~lo wdrld']
+Generation 79
+[8, '~ewlo wdrld']
+Generation 80
+[8, '~e~lo wdrld']
+Generation 81
+[8, '~e~lo worl(']
+Generation 82
+[8, '~e~lo worl(']
+Generation 83
+[8, '~e~lo worl(']
+Generation 84
+[8, '~e~lo wdrld']
+Generation 85
+[9, '~ello wdrld']
+Generation 86
+[9, '~ello wdrld']
+Generation 87
+[8, '~e~lo wwrld']
+Generation 88
+[9, '~ello worl(']
+Generation 89
+[9, '~ello worlA']
+Generation 90
+[9, '~ello wwrld']
+Generation 91
+[9, '~ello worlA']
+Generation 92
+[9, '~ello wwrld']
+Generation 93
+[9, '~ello wwrld']
+Generation 94
+[10, 'He|lo world']
+Generation 95
+[10, '~ello world']
+Generation 96
+[9, '~e~lo world']
+Generation 97
+[9, '~ello wwrld']
+Generation 98
+[9, '~ello wwrld']
+Generation 99
+[9, '~ello wwrld']
+Generation 100
+[9, '~ello wwrld']
+Generation 101
+[9, '~ello wwrld']
+Generation 102
+[9, '~ello wwrld']
+Generation 103
+[9, '~ello w~rld']
+Generation 104
+[9, '~ello w~rld']
+Generation 105
+[9, '~ello w|rld']
+Generation 106
+[9, '~ello w|rld']
+Generation 107
+[9, '~ello w|rld']
+Generation 108
+[9, '~ello w|rld']
+Generation 109
+[9, '~ello w~rld']
+Generation 110
+[9, '~ello w~rld']
+Generation 111
+[9, '~ello w~rld']
+Generation 112
+[9, '~ello w~rld']
+Generation 113
+[9, '~ello w~rld']
+Generation 114
+[9, '~ello w~rld']
+Generation 115
+[9, '~ello w~rld']
+Generation 116
+[9, '~ello w~rld']
+Generation 117
+[9, '~ello w~rld']
+Generation 118
+[9, '~ello w~rld']
+Generation 119
+[9, '~ello w~rld']
+Generation 120
+[9, '~ello w~rld']
+Generation 121
+[9, '~ello w~rld']
+Generation 122
+[9, '~ello w~rld']
+Generation 123
+[9, '~ello w~rld']
+Generation 124
+[9, '~ello w~rld']
+Generation 125
+[10, '~ello world']
+Generation 126
+[10, '~ello world']
+Generation 127
+[10, '~ello world']
+Generation 128
+[10, '~ello world']
+Generation 129
+[10, '~ello world']
+Generation 130
+[10, '~ello world']
+Generation 131
+[10, '~ello world']
+Generation 132
+[10, '~ello world']
+Generation 133
+[10, '~ello world']
+Generation 134
+[10, '~ello world']
+Generation 135
+[10, '~ello world']
+Generation 136
+[10, '~ello world']
+Generation 137
+[10, '~ello world']
+Generation 138
+[11, 'Hello world']

@@ -1,0 +1,290 @@
+Looking for: Hello world
+Population size: 500
+Crossover rate: 0.5
+Mutation rate: 0.01
+Max number of generations: 2000
+Time to run: 0.667445182800293
+Solution found on generation: 141
+Best fit found: [11, 'Hello world']
+Generation 0
+[2, "w?Myn ~'r'%"]
+Generation 1
+[2, "sTaAO ~'r'%"]
+Generation 2
+[2, "~iPi] ~'r'%"]
+Generation 3
+[2, "|a+`b ~'r'%"]
+Generation 4
+[3, 'v@i&o F;r|[']
+Generation 5
+[3, 'Hn]-} F;r|[']
+Generation 6
+[3, "=Ohl; ~'r'%"]
+Generation 7
+[3, "geBS` ~'r'%"]
+Generation 8
+[3, "geBS` ~'r'%"]
+Generation 9
+[3, "geBS` ~Pr'%"]
+Generation 10
+[3, "~e`*j Xo'*s"]
+Generation 11
+[3, "~e`*j ~'r'%"]
+Generation 12
+[3, "vvvso Xo'*s"]
+Generation 13
+[3, "vvvso Xo'*s"]
+Generation 14
+[3, 'vvvso[woUB)']
+Generation 15
+[3, 'vvvso[woUW)']
+Generation 16
+[4, 'gelH` F;r|[']
+Generation 17
+[4, 'gelH`[woUB)']
+Generation 18
+[4, 'geBSo[woUB)']
+Generation 19
+[4, 'geBl`[woUB)']
+Generation 20
+[4, 'gelH` FyrZ[']
+Generation 21
+[4, 'gelH` F;r|[']
+Generation 22
+[4, 'gelH`[woUB)']
+Generation 23
+[4, 'vvvso F;rl[']
+Generation 24
+[4, 'vv_so woU[)']
+Generation 25
+[4, "vvvso ~or'%"]
+Generation 26
+[4, "vvvso ~or'%"]
+Generation 27
+[4, 'vvvso woU[)']
+Generation 28
+[5, '*eBl` woU[)']
+Generation 29
+[4, 'vvvso wov[)']
+Generation 30
+[5, 'geBl" wov[)']
+Generation 31
+[6, 'geBl" wov[d']
+Generation 32
+[5, 'geBl` wov[)']
+Generation 33
+[5, 'gelH` wo`[)']
+Generation 34
+[5, 'gelH` wov[x']
+Generation 35
+[5, 'pelH` wov[)']
+Generation 36
+[5, 'vvlso woUZ)']
+Generation 37
+[5, 'v|lso wov[x']
+Generation 38
+[5, 'xelH` wov[)']
+Generation 39
+[5, 'xelH` woUZ)']
+Generation 40
+[5, 'xelH` wov[)']
+Generation 41
+[5, 'xelH` wov[)']
+Generation 42
+[6, 'gell` wov[)']
+Generation 43
+[6, 'gell` woUZ)']
+Generation 44
+[6, 'gell` woUZ)']
+Generation 45
+[6, 'gell` wov[)']
+Generation 46
+[5, '|elH` wov[Q']
+Generation 47
+[5, '~eBl` woUZ)']
+Generation 48
+[5, '~eBl` woUZy']
+Generation 49
+[5, '~eBl` wov[)']
+Generation 50
+[5, '~eBl` wo)[)']
+Generation 51
+[5, '~eBl` wov[)']
+Generation 52
+[5, '~eBl` wov[)']
+Generation 53
+[5, '~eBl` wov[x']
+Generation 54
+[5, '~eBl` wov[x']
+Generation 55
+[5, '~eBl` wov[z']
+Generation 56
+[5, '~eBl` woy[)']
+Generation 57
+[6, '{ell` wov[)']
+Generation 58
+[6, '{ell` wov[)']
+Generation 59
+[6, '{ell` woy[A']
+Generation 60
+[6, '|elH` wovl)']
+Generation 61
+[6, '|elH` wovl)']
+Generation 62
+[6, '|elM` wovl)']
+Generation 63
+[6, '|elr` wovl)']
+Generation 64
+[6, '|elr` wovl)']
+Generation 65
+[6, '|elr` wovl)']
+Generation 66
+[7, '{ell` wovl)']
+Generation 67
+[7, '{ell` wovl)']
+Generation 68
+[6, '|elr} wovl)']
+Generation 69
+[7, '{ell` wovl)']
+Generation 70
+[7, '{ell` wowl)']
+Generation 71
+[7, '|elr` worl)']
+Generation 72
+[8, '{ell` worl)']
+Generation 73
+[7, '{ell` wowl)']
+Generation 74
+[7, '{ell` wowl)']
+Generation 75
+[7, '{elly wovl)']
+Generation 76
+[7, '{elly wovl)']
+Generation 77
+[7, '{elly wovl)']
+Generation 78
+[7, '|ell` wovl)']
+Generation 79
+[7, '|ell` woSl)']
+Generation 80
+[8, '{ell` wodld']
+Generation 81
+[7, '|ell` wovl)']
+Generation 82
+[7, '|ell` wovlz']
+Generation 83
+[8, '{ell` worlp']
+Generation 84
+[7, '|ell` wovl)']
+Generation 85
+[8, '{ello woSl)']
+Generation 86
+[7, '|ell` wovl)']
+Generation 87
+[8, '{ello wovl)']
+Generation 88
+[8, '{ello wovlo']
+Generation 89
+[8, '{ello wovlo']
+Generation 90
+[8, '{ello wovlz']
+Generation 91
+[8, '{ello wowl)']
+Generation 92
+[8, '{ello wovl}']
+Generation 93
+[8, '{ello wowl)']
+Generation 94
+[8, '{ello wovl}']
+Generation 95
+[8, '{ello wo}l>']
+Generation 96
+[8, '{ello wo}l>']
+Generation 97
+[8, '{ello wo}l>']
+Generation 98
+[8, '|ell` worlt']
+Generation 99
+[8, '{ello wo}l>']
+Generation 100
+[8, '{ello wo}l>']
+Generation 101
+[8, '{ello wo}lV']
+Generation 102
+[8, '{ello wo}l>']
+Generation 103
+[8, '{ello wo}l>']
+Generation 104
+[8, '|ello wovl&']
+Generation 105
+[9, '{ello worlo']
+Generation 106
+[9, '{ello worlo']
+Generation 107
+[9, '{ello worlo']
+Generation 108
+[9, '{ello worlo']
+Generation 109
+[9, '{ello worl}']
+Generation 110
+[9, '{ello worl}']
+Generation 111
+[9, '|ello worlo']
+Generation 112
+[9, '|ello worl}']
+Generation 113
+[9, '|ello worl}']
+Generation 114
+[9, '|ello worl}']
+Generation 115
+[9, '|ello worl}']
+Generation 116
+[9, '|ello worl}']
+Generation 117
+[9, '|ello worl}']
+Generation 118
+[9, '~ello worl}']
+Generation 119
+[9, '~ello worl}']
+Generation 120
+[9, '~ello worl}']
+Generation 121
+[9, '~ello worl}']
+Generation 122
+[9, '~ello worl}']
+Generation 123
+[9, '~ello worl}']
+Generation 124
+[10, 'Hello worl}']
+Generation 125
+[10, 'Hello worl}']
+Generation 126
+[10, 'Hello worl}']
+Generation 127
+[10, 'Hello worl}']
+Generation 128
+[10, 'Hello worl}']
+Generation 129
+[10, 'Hello worl}']
+Generation 130
+[10, 'Hello worl}']
+Generation 131
+[10, 'Hello worl}']
+Generation 132
+[10, 'Hello worl}']
+Generation 133
+[10, 'Hello worl}']
+Generation 134
+[10, 'Hello worl~']
+Generation 135
+[10, 'Hello worl~']
+Generation 136
+[10, 'Hello worl~']
+Generation 137
+[10, 'Hello worl~']
+Generation 138
+[10, 'Hello worl~']
+Generation 139
+[10, 'Hello worl~']
+Generation 140
+[11, 'Hello world']

@@ -1,0 +1,374 @@
+Looking for: Hello world
+Population size: 1000
+Crossover rate: 0.5
+Mutation rate: 0.05
+Max number of generations: 2000
+Time to run: 1.8332219123840332
+Solution found on generation: 183
+Best fit found: [11, 'Hello world']
+Generation 0
+[2, 'j+Wvo II.,p']
+Generation 1
+[2, 'lt#ls Wn[;H']
+Generation 2
+[2, '{G*]D w!`iz']
+Generation 3
+[3, ',ekhi><qr!d']
+Generation 4
+[3, '{j>.c w!rrz']
+Generation 5
+[3, '})ORa w!rrz']
+Generation 6
+[3, 'z#l[p w!`Xz']
+Generation 7
+[4, 'ceP#o"w!rrz']
+Generation 8
+[4, '\'e{mo"w%rrz']
+Generation 9
+[3, 'z}l[p[w?-Md']
+Generation 10
+[3, '{G*l  wQZoU']
+Generation 11
+[3, '}dlB+GwYrA_']
+Generation 12
+[4, 'z#lGp[wo-~d']
+Generation 13
+[4, 'v}l).[wo-~d']
+Generation 14
+[4, 'ujl"y[wo-~d']
+Generation 15
+[4, '{/*l [wo-~d']
+Generation 16
+[5, '{el[p[wo-~d']
+Generation 17
+[4, '}e{moOwooTH']
+Generation 18
+[5, 'He\\hY[wo-)d']
+Generation 19
+[5, 'Ge$mo[wo-)d']
+Generation 20
+[5, "'eAmo[wo-)d"]
+Generation 21
+[5, 'z#l[u wo-/d']
+Generation 22
+[5, 'zrlip wo-/d']
+Generation 23
+[6, '\\e;l= wo-/d']
+Generation 24
+[6, 'HulV> wo-/d']
+Generation 25
+[6, '{}{lo wo-/d']
+Generation 26
+[6, 'zel[p wo-/d']
+Generation 27
+[6, 'aeufo wod/d']
+Generation 28
+[7, 'He^|o wod/d']
+Generation 29
+[6, 'te^|o wo-/d']
+Generation 30
+[6, '{}jlo wo-/d']
+Generation 31
+[6, 'ye[mo wo-/d']
+Generation 32
+[6, '`elXP wod/d']
+Generation 33
+[7, 'HelNM wo"/d']
+Generation 34
+[6, '|elCp wod/d']
+Generation 35
+[6, '{yklo wo-/d']
+Generation 36
+[7, 'He{Qo wo""d']
+Generation 37
+[7, 'uMll! wor/d']
+Generation 38
+[7, 'Hvlmp wor/d']
+Generation 39
+[7, 'He{Qoewor)d']
+Generation 40
+[7, 'HeN)o woU/d']
+Generation 41
+[7, 'HelNE woc/d']
+Generation 42
+[7, 'iel|o wo-/d']
+Generation 43
+[7, 'He{Qo woCBd']
+Generation 44
+[7, 'He{Qo wo-xd']
+Generation 45
+[7, 'He{Qo wo//d']
+Generation 46
+[7, 'He{Qo wo^Gd']
+Generation 47
+[7, 'HeQUo wo-vd']
+Generation 48
+[7, 'xelVo woTjd']
+Generation 49
+[7, 'z#llp wo-ld']
+Generation 50
+[7, '{elMP wo-ld']
+Generation 51
+[7, 'He{Co$worRd']
+Generation 52
+[7, "xel(o wo'/d"]
+Generation 53
+[7, 'qUlso wo,ld']
+Generation 54
+[7, 'uslli wor>d']
+Generation 55
+[7, '|eayo worxd']
+Generation 56
+[7, 'pel,o wo-/d']
+Generation 57
+[7, '~e>no wo-ld']
+Generation 58
+[7, '{eRlq wo^ld']
+Generation 59
+[7, 'qelso woTZd']
+Generation 60
+[7, 'z.ll\\ wo-ld']
+Generation 61
+[7, 'z#ll* wo!ld']
+Generation 62
+[7, 'wZllo wo_Yd']
+Generation 63
+[7, 'w}Slo wodld']
+Generation 64
+[7, '}el|o woztd']
+Generation 65
+[7, '{w;lo woLld']
+Generation 66
+[7, 'zeilo wo-~d']
+Generation 67
+[8, 'Seilo worLd']
+Generation 68
+[7, '~eFlo woTZd']
+Generation 69
+[8, 'He`Jo worLd']
+Generation 70
+[8, 'Heg|o woeld']
+Generation 71
+[8, 'zvllo wo(ld']
+Generation 72
+[8, 'peilo wo(ld']
+Generation 73
+[8, 'feilo worHd']
+Generation 74
+[8, 'Heg|o wo(ld']
+Generation 75
+[8, 'peilo wo(ld']
+Generation 76
+[8, '{evlo wo<ld']
+Generation 77
+[8, '{evlo wor%d']
+Generation 78
+[8, '~bllo worsd']
+Generation 79
+[8, 'peXlo wo(ld']
+Generation 80
+[8, '{esl# world']
+Generation 81
+[9, 'Hemlo wo(ld']
+Generation 82
+[8, '{evl# world']
+Generation 83
+[9, 'HefJo world']
+Generation 84
+[9, '{evlo world']
+Generation 85
+[9, 'w}llo world']
+Generation 86
+[9, 'Hek*o world']
+Generation 87
+[9, '{eXlo world']
+Generation 88
+[9, '{e>lo world']
+Generation 89
+[9, 'pel|o world']
+Generation 90
+[9, 'xelno world']
+Generation 91
+[9, 'z^llo world']
+Generation 92
+[9, '{evlo world']
+Generation 93
+[9, '{ewlo world']
+Generation 94
+[9, '~e!lo world']
+Generation 95
+[9, 'wIllo world']
+Generation 96
+[9, 'Heilo wo(ld']
+Generation 97
+[9, 'Hemlo wor[d']
+Generation 98
+[9, 'zello worDd']
+Generation 99
+[9, 'selqo world']
+Generation 100
+[9, 'zello wo(ld']
+Generation 101
+[9, 'Hejlo wocld']
+Generation 102
+[9, 'Hewlo worDd']
+Generation 103
+[9, 'Hewlo wo(ld']
+Generation 104
+[9, '{ello worDd']
+Generation 105
+[9, 'He|lo wo(ld']
+Generation 106
+[10, 'Hemlo world']
+Generation 107
+[9, '{ello wored']
+Generation 108
+[9, '|eFlo world']
+Generation 109
+[10, 'He&lo world']
+Generation 110
+[10, 'HeXlo world']
+Generation 111
+[10, 'HePlo world']
+Generation 112
+[10, 'Hemlo world']
+Generation 113
+[10, 'He_lo world']
+Generation 114
+[10, 'He|lo world']
+Generation 115
+[10, 'He:lo world']
+Generation 116
+[10, 'He^lo world']
+Generation 117
+[10, 'cello world']
+Generation 118
+[10, 'Hemlo world']
+Generation 119
+[10, 'Heelo world']
+Generation 120
+[10, 'He,lo world']
+Generation 121
+[10, 'Hemlo world']
+Generation 122
+[10, 'HeNlo world']
+Generation 123
+[10, 'Heplo world']
+Generation 124
+[10, 'Hemlo world']
+Generation 125
+[10, 'Henlo world']
+Generation 126
+[10, 'Hemlo world']
+Generation 127
+[10, 'HeYlo world']
+Generation 128
+[10, 'Hezlo world']
+Generation 129
+[10, 'He}lo world']
+Generation 130
+[10, 'He|lo world']
+Generation 131
+[10, 'mello world']
+Generation 132
+[10, 'Henlo world']
+Generation 133
+[10, 'He|lo world']
+Generation 134
+[10, 'mello world']
+Generation 135
+[10, 'He~lo world']
+Generation 136
+[10, 'dello world']
+Generation 137
+[10, '^ello world']
+Generation 138
+[10, 'He|lo world']
+Generation 139
+[10, 'He~lo world']
+Generation 140
+[10, 'dello world']
+Generation 141
+[10, '~ello world']
+Generation 142
+[10, '^ello world']
+Generation 143
+[10, 'Heulo world']
+Generation 144
+[10, 'dello world']
+Generation 145
+[10, 'lello world']
+Generation 146
+[10, 'He,lo world']
+Generation 147
+[10, 'Herlo world']
+Generation 148
+[10, 'HeQlo world']
+Generation 149
+[10, 'lello world']
+Generation 150
+[10, 'HeNlo world']
+Generation 151
+[10, 'HeWlo world']
+Generation 152
+[10, 'bello world']
+Generation 153
+[9, '|ehlo world']
+Generation 154
+[10, 'Bello world']
+Generation 155
+[10, '^ello world']
+Generation 156
+[10, '^ello world']
+Generation 157
+[10, 'HeNlo world']
+Generation 158
+[10, 'bello world']
+Generation 159
+[10, 'lello world']
+Generation 160
+[10, '^ello world']
+Generation 161
+[10, 'Pello world']
+Generation 162
+[10, '^ello world']
+Generation 163
+[10, 'lello world']
+Generation 164
+[10, 'He~lo world']
+Generation 165
+[10, 'oello world']
+Generation 166
+[10, 'lello world']
+Generation 167
+[10, 'lello world']
+Generation 168
+[10, 'lello world']
+Generation 169
+[10, 'yello world']
+Generation 170
+[10, 'wello world']
+Generation 171
+[10, '^ello world']
+Generation 172
+[10, 'yello world']
+Generation 173
+[10, 'yello world']
+Generation 174
+[10, 'wello world']
+Generation 175
+[10, '{ello world']
+Generation 176
+[10, 'lello world']
+Generation 177
+[10, '{ello world']
+Generation 178
+[10, '{ello world']
+Generation 179
+[10, '{ello world']
+Generation 180
+[10, 'yello world']
+Generation 181
+[10, 'yello world']
+Generation 182
+[11, 'Hello world']

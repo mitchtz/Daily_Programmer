@@ -1,0 +1,532 @@
+Looking for: What a time, to be alive.
+Population size: 5000
+Crossover rate: 0.5
+Mutation rate: 0.01
+Max number of generations: 2000
+Time to run: 18.596385955810547
+Solution found on generation: 262
+Best fit found: [25, 'What a time, to be alive.']
+Generation 0
+[4, 'Hg|<$/xqjW#,O`} !e].zXBe^']
+Generation 1
+[3, 'nRaP cGq{="dAnH x$hR@VO/i']
+Generation 2
+[4, 'W,[K:n|G&_C,?t|~bGW*d~S)&']
+Generation 3
+[4, 'WCCwc=H<iW>:I[dBMU}ahi(^Z']
+Generation 4
+[4, 'xhrO:"z-gmor:;()_RZaM]Xe-']
+Generation 5
+[4, 'oMaR zv.n_Rf pO;Dn @D>ERa']
+Generation 6
+[4, 'zKa^ ePKsyZ[qQC)Ge RTlSm/']
+Generation 7
+[5, 'nRaP cGt{="dwU+Q@e\\,lK$F`']
+Generation 8
+[4, "|@a~'hQOqq#JiLiXbB @(;WeZ"]
+Generation 9
+[5, 'oMaR zvYn_RfiLiXbB @(;WeZ']
+Generation 10
+[5, 'zKa^ ePKsyZ[iLiXbB @(;WeZ']
+Generation 11
+[5, '#I~tBC!?imfNSOHas& aK{kOi']
+Generation 12
+[5, 'Z$.V @Kt%kSiStHas& aK{kOi']
+Generation 13
+[6, ';!h{ a FNt}ubQo)Ge RflSm/']
+Generation 14
+[5, 'zKa^ ePKsyZ[bQo)Ge RflSm/']
+Generation 15
+[5, '|)WoW"gtMVe_Gtoe/ML:ldUHG']
+Generation 16
+[5, '~$.V [Kt?kSiiLi#bB @(;WeZ']
+Generation 17
+[5, '~$.V [KtJkSi Z&:bpXA!iq;?']
+Generation 18
+[6, ';!h{ a FNt}uiLi#bB @(;WeZ']
+Generation 19
+[6, "Wfgt 'k>=Ll_/'mAbes>|Z}eT"]
+Generation 20
+[6, "tf;t !kt=Ll_P'mAbes>iZ}eT"]
+Generation 21
+[6, 'oMaR zv.n_\\fDt,e/Mg:livHG']
+Generation 22
+[6, 'xhrK:"z-gmoPDt,e/Mg:livHG']
+Generation 23
+[6, 'z+a^ ePKsyZ[Dt,e/Mg:livHG']
+Generation 24
+[6, "~$.V ['tJFSi Z&:b+XAiiv;?"]
+Generation 25
+[7, ';!h{ a FNc}uDt,e/Mg:livHG']
+Generation 26
+[6, '~$@V [Kt[kSi Z&:b+XAiiv;?']
+Generation 27
+[7, ';!h{ a FNt}u Z&:b+XAiiv;?']
+Generation 28
+[7, 'xhrQ:"ztgmoP Z&:b+XAiiv;?']
+Generation 29
+[7, 'oMaR z Y[i_f Z&:b+XAiiv;?']
+Generation 30
+[7, 'tf;t !kt=Ll_ Z&:b+XAiiv;?']
+Generation 31
+[7, '~$.L [:t?kS, Z&:b+XAiiv;?']
+Generation 32
+[7, '~$.+ [ t?kS,SOowst aK{kOi']
+Generation 33
+[7, '~$.+ [ t?kS,mtHasq aK<kOM']
+Generation 34
+[7, '~$.V [KtJkS,SOoasq al{kki']
+Generation 35
+[8, "&h;t !kt=Ll_C'oqsq aK{kk."]
+Generation 36
+[8, '~$.L [:t?mS, Z&:b+{AsivZ?']
+Generation 37
+[8, "oJaR z tniRfC'oqsq aK{kk."]
+Generation 38
+[8, '~$.+ [ t?kS, Z&:b+XAiivq?']
+Generation 39
+[8, '~$.- [ tJkS,SOoasq al{kki']
+Generation 40
+[8, "~Y.+ [ t?kS,/'m bes>QT}eT"]
+Generation 41
+[8, '~Y.+ [ t?kS,Jt,EfeB^DAve+']
+Generation 42
+[9, 'oMaR z YMiR,SOoasq al{kei']
+Generation 43
+[8, "~Y.+ [ t?kS,/')Abe ll[[XT"]
+Generation 44
+[9, '~$}+ [ tnkS,SOoasq al{kei']
+Generation 45
+[9, 'oJaR z tniRfSOoasq al{kei']
+Generation 46
+[9, '~A.t [Jt}kS,SOoasq al{kei']
+Generation 47
+[9, "ohaR z tniRf/'m bes>QZ}eT"]
+Generation 48
+[9, '~Y.+ [ t?kS, Z&XbzXA!iv;.']
+Generation 49
+[10, 'ohaR d tniRfSOoaVq al{kei']
+Generation 50
+[9, '~c.+ [ t?kS, Z&XbzXA!iv;.']
+Generation 51
+[10, 'ohaR d tniRf Z&:b+ Aiiv;?']
+Generation 52
+[9, '~hUr ^ t?kS, Z&:b+:Aiiv;?']
+Generation 53
+[10, '~hUr ^ t?kS,SOoast aI^ke.']
+Generation 54
+[10, 'ohaE J tniRfSOoaVq al{kei']
+Generation 55
+[10, 'ohaE z tniRf Z[Xbm|A!iv;.']
+Generation 56
+[10, '~$.+ r t?mS,SOoaVq al{keY']
+Generation 57
+[10, '~$.- [ tJke,SOoaVq al{keY']
+Generation 58
+[10, '~hUr ^ t?kS,SOoaVq al{kei']
+Generation 59
+[10, '~$.- [ tJke, Z&XbzoAziv;.']
+Generation 60
+[10, '~hUr ^ t?kS,SOoaVq al{kei']
+Generation 61
+[10, '~va+ [ tVkS,SOoaVq al{kei']
+Generation 62
+[10, '~hUr ^ t?kS,SOoaVq al{keY']
+Generation 63
+[11, 'oOaR z tniR, Z[Xbm|Rliv;.']
+Generation 64
+[10, '~zUp [ tXkS, Z[Xbm|Rliv;.']
+Generation 65
+[11, '~$a+ [ t]qS, Z[`bm|+liv;.']
+Generation 66
+[11, '~hUr ^ t?kS, ZoXbz A!iv:?']
+Generation 67
+[11, '~hUr ^ t?kS, w&*b+ A?ive?']
+Generation 68
+[11, "~hUr ^ t?kS, Z'Xbm|Rliv;."]
+Generation 69
+[11, '~hUr ^ t?kS, Z[Xbm|Rliv;.']
+Generation 70
+[11, '~tNs [ t?mS, Z[Xbm|Rliv;.']
+Generation 71
+[11, '~l.- [ tJke, ZoXbMmA!iv;.']
+Generation 72
+[12, '?$Vt a t]qS, Z[Xbm|Rliv;.']
+Generation 73
+[11, '~w.t @ t?k*, +&:b+ aiivz?']
+Generation 74
+[12, 'oha% a tndRf/tr@be ^li[XE']
+Generation 75
+[12, "~$Vt N t]qS, Z' bm|Rliv;."]
+Generation 76
+[12, "ohaR z t)URf }' bm|Rliv;."]
+Generation 77
+[12, "~h.t [KtJk<, Z' bm|Rliv;."]
+Generation 78
+[12, "~x&t [ t]qS, }' bm|Rliv;."]
+Generation 79
+[12, "~oM- [ tJke, T' bm|Rliv;."]
+Generation 80
+[13, "oha% a tndRf T' bm|Rliv;."]
+Generation 81
+[13, "~hVt N t]qS, Z' bm|Rliv;."]
+Generation 82
+[13, "oOaR z tiiU, }' bm|Rliv;."]
+Generation 83
+[12, "~uVt [ tQQS, Z' bm|Rlivd."]
+Generation 84
+[13, 'ohad a tndRf ZoXbm|Rliv;.']
+Generation 85
+[13, '~h.t [Ktck<, toHbm|)liv;.']
+Generation 86
+[13, "~hVt N t]qs, T' bm|Rliv;."]
+Generation 87
+[13, '~hj~ G t?mS, toasq alikkY']
+Generation 88
+[13, '~hUr ^ t?kJ, toHbm|)liv;.']
+Generation 89
+[13, '~hU~ G t?mS, Z[Kbm Rliv;.']
+Generation 90
+[13, "~hct x tJkX, z' bm|oliv;."]
+Generation 91
+[13, '~hbr ^ t?ke, toasq alikkY']
+Generation 92
+[14, '~X.- a tike,&tocbe ^li{XE']
+Generation 93
+[13, '~|Vt a t#qS,&tocbe ^li[XE']
+Generation 94
+[14, '~X.- a tike, toasq alikkY']
+Generation 95
+[14, "~X.- a tike, }' bm|Rliv;."]
+Generation 96
+[14, '~X.- a tike,&to@be ^li[XQ']
+Generation 97
+[14, '~X.- a tike, Zu bmTRliv;.']
+Generation 98
+[14, "~X.- a tike, }' bm|Rlivd."]
+Generation 99
+[14, '~X.- a tike, tow&q alikkY']
+Generation 100
+[14, '~X.- a tike,&tr@be ^li[X.']
+Generation 101
+[14, '~n.t _ t?mu, J[ bm)aliv;.']
+Generation 102
+[14, '~r.t a t&ke,&tocbe ^li|XE']
+Generation 103
+[14, '~rgt a t&ke,&to@be ^li[XE']
+Generation 104
+[14, '~rgt a t&ke,&to@be ^li[DE']
+Generation 105
+[15, 'W$Ht a t#qS,&to@be ^li[eE']
+Generation 106
+[14, '~|Vt a t#@S, +& b+ aOivz.']
+Generation 107
+[15, 'oiat a tni., +& b+ aOivz.']
+Generation 108
+[14, '~|zt a t@mS, towvq alikk*']
+Generation 109
+[15, '~rgt a t&ke, Zu be|Rlivo.']
+Generation 110
+[15, '~hKt a tTqS, towsq alivkY']
+Generation 111
+[15, "~h,t aKtikI, T' be.'liv;."]
+Generation 112
+[15, '~hUt G t?mS,&to@be ^li[eE']
+Generation 113
+[15, '~nat _ t?mt, +R b+ aOivz.']
+Generation 114
+[15, '~rgt a t&ke, towsq alivkY']
+Generation 115
+[15, '~rgt a t&Pe, to sq alikkY']
+Generation 116
+[15, '~rgt a t&ke, toYsq alivkY']
+Generation 117
+[15, '~rgt a t&ke,&to@be ^li[eE']
+Generation 118
+[15, '~|Vt a t^mS, to sq alikkY']
+Generation 119
+[16, "~Xa- a tike, J' be.'liv;."]
+Generation 120
+[16, '~ha~ v t?mS, +& bw aOive.']
+Generation 121
+[15, "~|Vt a t^mS, T' be.'liv;."]
+Generation 122
+[15, '~|Vt a t^mS, towbq alikkY']
+Generation 123
+[15, "~|Vt a t^mS, Tx beX'liv;."]
+Generation 124
+[15, "~|Vt a tiq|, T' be.Rliv;."]
+Generation 125
+[15, '~|Vt a t&ke,&to@be ^li[eE']
+Generation 126
+[16, '~nat _ t?mu, to se alikkY']
+Generation 127
+[16, '~hpt [KtimO, to se alikkY']
+Generation 128
+[16, '~rgt a t&ke, to se alikkY']
+Generation 129
+[16, '~rgt a t&ke, to se alikkY']
+Generation 130
+[16, '~rVt a t&ke, to se alikkY']
+Generation 131
+[16, '~rVt a t&ke, to se alikkY']
+Generation 132
+[17, 'oCat a tii., tosbe aliUkY']
+Generation 133
+[17, '~hgt a t&Ze, to bq alikk ']
+Generation 134
+[17, '~$at a t#^e, to sq alikeY']
+Generation 135
+[17, '~$at a t#^e, to se alikkY']
+Generation 136
+[16, '~}gt a t&ie, to bq alikk ']
+Generation 137
+[17, '~hgt a t&Ze, to se alitkY']
+Generation 138
+[17, '~hgt a t&Ze, to se alikkY']
+Generation 139
+[17, '~h)t * timR, to bq alikk ']
+Generation 140
+[17, '~rat a t&ke,&to@be ali[eR']
+Generation 141
+[17, '~rgt a tice, to se alik%Y']
+Generation 142
+[17, '~rgt a tice, to se alikkY']
+Generation 143
+[17, '~rgt a t&ke, to bq alike ']
+Generation 144
+[17, '~rgt a tice, to se alikky']
+Generation 145
+[17, '~rgt a tice, to se alitkY']
+Generation 146
+[17, '~rgt a tice, to se alikkY']
+Generation 147
+[17, '~rgt a tice, to`be aliUkY']
+Generation 148
+[17, '~rgt a tike, to bq alikk ']
+Generation 149
+[18, '~*at a t#^e,&to@be ali[e.']
+Generation 150
+[18, '?^a- a tike, to b. aliSeY']
+Generation 151
+[18, 'p$at a t#^e, to be alikk ']
+Generation 152
+[18, 'oFat a tii., to s= alike.']
+Generation 153
+[18, '~hgt a t&Ze, to be alikk ']
+Generation 154
+[18, '~dgt a tice, to b. aliSeY']
+Generation 155
+[18, '~rkt a t&me, to se aliv;Y']
+Generation 156
+[18, '~rgt a t&me, to be alikk ']
+Generation 157
+[18, '~rat a t&ke, tosbe ali{k.']
+Generation 158
+[18, '~rkt a t&me, to s= alike.']
+Generation 159
+[18, '~yat _ timu, to s= alike.']
+Generation 160
+[18, '~wEt a tice, to sS alike.']
+Generation 161
+[18, '~rkt a t&me, to z= alike.']
+Generation 162
+[19, 'WrVt a t&me, to s= alike.']
+Generation 163
+[19, '~cat a t&Ne, t& be alivk.']
+Generation 164
+[19, '~rat a t&ke, t& be alivk.']
+Generation 165
+[19, '~wSt a tike, t& be alivk.']
+Generation 166
+[19, '~hTt a t&le, t& be alivk.']
+Generation 167
+[19, '~rat a t&ke, t& be alivk.']
+Generation 168
+[19, '~nat _ timu, t& be alivk.']
+Generation 169
+[20, 'W^at } timu, t& be alivk.']
+Generation 170
+[19, '~rgt a tice, t& be alivk.']
+Generation 171
+[20, 'W}Et a time, to se aliv;V']
+Generation 172
+[20, '~hTt a t&me, t& be alivk.']
+Generation 173
+[20, 'W}Et a time, to b. aliSeY']
+Generation 174
+[20, '~rat a tuke, t& be alive.']
+Generation 175
+[20, '~rat a t&Ne, t& be alive.']
+Generation 176
+[20, '~nat _ timQ, t& be alive.']
+Generation 177
+[20, '~rkt a t_me, t& be alive.']
+Generation 178
+[21, 'WrEt a t&me, t& be alive.']
+Generation 179
+[20, '~xgt a t&me, t& be alive.']
+Generation 180
+[21, 'W{gt a t&me, t& be alive.']
+Generation 181
+[20, '~xgt a t&me, t& be alive.']
+Generation 182
+[21, '~hTt a thme, t& be alive.']
+Generation 183
+[21, '~hat a t&(e, t& be alive.']
+Generation 184
+[21, '~hat a t&ke, t& be alive.']
+Generation 185
+[21, '~hat a t&ke, t& be alive.']
+Generation 186
+[21, 'W}Et a time, tM be alivk.']
+Generation 187
+[21, '~hat a t/ue, t& be alive.']
+Generation 188
+[21, '~hat a t&ke, t& be alive.']
+Generation 189
+[22, 'Wrat a t&me, t& be alive.']
+Generation 190
+[21, '~rat a tiQe, t& be alive.']
+Generation 191
+[22, 'W}Et a time, t& be alive.']
+Generation 192
+[22, 'W}Et a time, t& be alive.']
+Generation 193
+[22, 'W}}t a time, t& be alive.']
+Generation 194
+[21, '~rat a tiQe, t& be alive.']
+Generation 195
+[22, 'W}^t a time, t& be alive.']
+Generation 196
+[22, 'W}Et a time, t& be alive.']
+Generation 197
+[22, 'W}`t a time, t& be alive.']
+Generation 198
+[22, 'W}Et a time, t& be alive.']
+Generation 199
+[22, 'W}Et a time, t& be alive.']
+Generation 200
+[22, 'W}Et a time, t& be alive.']
+Generation 201
+[22, 'W}tt a time, t& be alive.']
+Generation 202
+[22, 'W}^t a time, t& be alive.']
+Generation 203
+[22, 'W}wt a time, t& be alive.']
+Generation 204
+[22, 'W}}t a time, t& be alive.']
+Generation 205
+[22, '~h:t a time, to be alivE.']
+Generation 206
+[22, '~hat a tize, t& be alive.']
+Generation 207
+[22, '~h:t a time, t& be alive.']
+Generation 208
+[22, '~hat a tize, t& be alive.']
+Generation 209
+[22, '~hat a tize, tN be alive.']
+Generation 210
+[23, 'WhEt a time, t& be alive.']
+Generation 211
+[22, '~hat a tize, tw be alive.']
+Generation 212
+[22, '~hat a tize, to be alivk.']
+Generation 213
+[23, 'Wh`t a time, t& be alive.']
+Generation 214
+[23, 'Wh`t a time, to be alivk.']
+Generation 215
+[23, 'Wh`t a time, t& be alive.']
+Generation 216
+[23, 'W}at a time, t& be alive.']
+Generation 217
+[23, 'Wh`t a time, t& be alive.']
+Generation 218
+[23, 'Wh`t a time, tV be alive.']
+Generation 219
+[23, 'W}at a time, tF be alive.']
+Generation 220
+[23, 'W}at a time, t& be alive.']
+Generation 221
+[23, 'Wh`t a time, tw be alive.']
+Generation 222
+[23, 'W}at a time, tw be alive.']
+Generation 223
+[23, '~hst a time, to be alive.']
+Generation 224
+[23, 'W}~t a time, to be alive.']
+Generation 225
+[23, 'W}at a time, to be alivk.']
+Generation 226
+[23, 'W}at a time, tV be alive.']
+Generation 227
+[23, 'Wh|t a time, tj be alive.']
+Generation 228
+[23, 'Zhat a time, t& be alive.']
+Generation 229
+[23, 'W}tt a time, to be alive.']
+Generation 230
+[23, '~h:t a time, to be alive.']
+Generation 231
+[23, 'Wh}t a time, t[ be alive.']
+Generation 232
+[23, '~h:t a time, to be alive.']
+Generation 233
+[23, '~hat a tbme, to be alive.']
+Generation 234
+[23, 'W}tt a time, to be alive.']
+Generation 235
+[23, '~h/t a time, to be alive.']
+Generation 236
+[23, '~hat a tize, to be alive.']
+Generation 237
+[23, '~hot a time, to be alive.']
+Generation 238
+[23, '~hat a tize, to be alive.']
+Generation 239
+[23, '~hat a tize, to be alive.']
+Generation 240
+[23, '~hat a tize, to be alive.']
+Generation 241
+[23, '~hat a tije, to be alive.']
+Generation 242
+[24, 'WhCt a time, to be alive.']
+Generation 243
+[23, '~hat a tize, to be alive.']
+Generation 244
+[24, 'WhCt a time, to be alive.']
+Generation 245
+[24, 'Whot a time, to be alive.']
+Generation 246
+[24, 'WhCt a time, to be alive.']
+Generation 247
+[24, 'Wh`t a time, to be alive.']
+Generation 248
+[24, 'Whjt a time, to be alive.']
+Generation 249
+[24, '~hat a time, to be alive.']
+Generation 250
+[24, 'What a tize, to be alive.']
+Generation 251
+[24, 'Wh~t a time, to be alive.']
+Generation 252
+[24, 'Wh~t a time, to be alive.']
+Generation 253
+[24, '~hat a time, to be alive.']
+Generation 254
+[24, '~hat a time, to be alive.']
+Generation 255
+[24, 'Wh~t a time, to be alive.']
+Generation 256
+[24, '~hat a time, to be alive.']
+Generation 257
+[24, '~hat a time, to be alive.']
+Generation 258
+[24, '~hat a time, to be alive.']
+Generation 259
+[24, '~hat a time, to be alive.']
+Generation 260
+[24, '~hat a time, to be alive.']
+Generation 261
+[25, 'What a time, to be alive.']

@@ -1,0 +1,1406 @@
+Looking for: What a time, to be alive.
+Population size: 200
+Crossover rate: 0.2
+Mutation rate: 0.01
+Max number of generations: 2000
+Time to run: 1.9513001441955566
+Solution found on generation: 699
+Best fit found: [25, 'What a time, to be alive.']
+Generation 0
+[3, 'nkaCSjuSrV#w`D`kM-ttzivs/']
+Generation 1
+[2, 'z>_tl|I@ND"L U\'h";}.L\'=wt']
+Generation 2
+[2, '}PJG`juSrV#w`D`kM-ttziv)/']
+Generation 3
+[3, 'z>_tlJ?=Gm.jycJT}mXhhHj].']
+Generation 4
+[3, 'z>_tkJ?=Gm.jycJT}mXhhHj].']
+Generation 5
+[3, 'z>_tlJ?xGm.EycJT}mXhhHjU.']
+Generation 6
+[4, 'Ah(]UjuSrV#w D`kM-tt=iv)/']
+Generation 7
+[4, 'oh(]UauSrV#w`D`kM-tt=iv)/']
+Generation 8
+[3, 'z>_tljuSrV#w`D`kM-ttziv)/']
+Generation 9
+[3, 'z>_tljuSrV#w`D`k#-ttziv)/']
+Generation 10
+[3, 'z>{tljuSrV#w`D`kM-tt=iv)/']
+Generation 11
+[3, 'z>{tljuSrV#w`D`kM-ttziv)/']
+Generation 12
+[3, 'z>{tljLSrV#w`D`kM-ttYivs/']
+Generation 13
+[3, 'z>{tljLSrV#w`]`kM-tezivs/']
+Generation 14
+[3, 'z>{tljuWrV#w`D`kM-ttziv)E']
+Generation 15
+[4, 'Xh(]UauSnV#w;D`k#-ttziv)/']
+Generation 16
+[4, 'oh(]UauSnV#w;D`k#-ttziv)/']
+Generation 17
+[4, 'oh^]UauSnV#w;D`k#-ttziv)/']
+Generation 18
+[4, 'z>{tlauSnV#w;D`kG-ttziv)/']
+Generation 19
+[4, 'zC{tlauSnV#w;D`kG-ttziv)/']
+Generation 20
+[4, 'z>{tlauSnV#w;D`kG-tYziv)/']
+Generation 21
+[4, 'z>{tljutrVOw`D`kM-ttziv)!']
+Generation 22
+[4, 'zx{tlauSnV#w;D`iG=ttziv)/']
+Generation 23
+[4, 'z`_tDju&rVew`D`kk-ttzivs/']
+Generation 24
+[4, 'zeZtlauSnV#w;D`kG-tYziv)/']
+Generation 25
+[4, 'zeZtl*etvm.h\\>zfog+{|WZu.']
+Generation 26
+[4, 'zeZtlauSnV#w;D`kG-tYziv)/']
+Generation 27
+[5, 'zeZt#*etvm.h\\>zfog+OlWZu.']
+Generation 28
+[4, 'zeZtljutrVOw`D`kM-ttziv)!']
+Generation 29
+[4, 'zq{tl*etvm.h\\>zfog+{|WZu.']
+Generation 30
+[4, 'zeZtljutrVOw`D`kM-ttziv)!']
+Generation 31
+[4, 'zq{tljutrVOw`D`kM-ttziv)!']
+Generation 32
+[5, 'zeZt<auSnV#w;tfkG-%Yaiv)/']
+Generation 33
+[5, 'zlwtjauSnV#w@tfkG-%Yaiv)/']
+Generation 34
+[5, 'zeZtlauSnV#w@tfkG-%Yaiv)/']
+Generation 35
+[5, 'zeZtljutrVOwXD`kM-ttziv).']
+Generation 36
+[5, 'zq{tljutrVOwXD`kM-ttziv).']
+Generation 37
+[5, 'zq{tljutrVOwXD`kM-ttziv).']
+Generation 38
+[5, '|q{tljutrVOwXD`kM-ttziv).']
+Generation 39
+[5, '|q{tljutrVOwXD`kM-ttziv).']
+Generation 40
+[5, '|q{tljutrVOwXDokM-ttziv)!']
+Generation 41
+[5, '|q{tojutrVOwXD`kM-ttziv).']
+Generation 42
+[5, '|q{tlj{trVOwXD`kM-tpzivo.']
+Generation 43
+[6, 'zq{tlj trVOwXD`kM-ttziv).']
+Generation 44
+[6, '|q{tlj trVOwXD`kM-ttziv).']
+Generation 45
+[6, '|q{tlj trVOwXD`kM-ttziv).']
+Generation 46
+[6, 'zq{tlautrVOwXD`kM-ttziv).']
+Generation 47
+[6, '|X{tlautrVOwXD`kM-ttziv).']
+Generation 48
+[6, '|q{tlautrVOwXD`kM-ttziv).']
+Generation 49
+[6, '|q{tljutrVO%XD`kb-ttziv).']
+Generation 50
+[6, '|q{tlautrVOwXD`kM-ttziv).']
+Generation 51
+[6, '|q{tlautrVOwXD`kM-ttziv).']
+Generation 52
+[6, '|q{tpautrVOwXD`kM-ttziv).']
+Generation 53
+[6, '|q{tljutrVewXD[kM-ttziv).']
+Generation 54
+[6, '|q|tlaXtrVOwXD`kM-ttziv).']
+Generation 55
+[6, '|q{tljutrVO%XD`kM-taziv).']
+Generation 56
+[6, '|q{tpaXtrVOwXD`kM-ttziv).']
+Generation 57
+[6, '|w{tlautrVOuXD`kM-%tziv).']
+Generation 58
+[7, '|q{tlaXtrmOwXD`kM-ttziv).']
+Generation 59
+[6, '|q{tpjytrVO%XD`kM-taziv).']
+Generation 60
+[6, '|q{tpjutrVO%XD`kh-taziv).']
+Generation 61
+[6, '|q{tpjutrVO%XD`ZM-taziv).']
+Generation 62
+[7, '|qatlEutrVOwXD`kM-tpliv*.']
+Generation 63
+[7, '|qatlE"trVOwXD`kM-tplivo.']
+Generation 64
+[7, '|qatlautrVOwXD`kM-ttziv).']
+Generation 65
+[7, '|qatljutrVO%XD`ZM-taziv).']
+Generation 66
+[7, '|qatljutrVO%XD`khHtaziv).']
+Generation 67
+[7, '|q{tpautrVO/XD`kv-taziv).']
+Generation 68
+[7, '|q{tpautrVOwXD`kM- tziv).']
+Generation 69
+[8, '|qatlautrVO/XD`kv-taziv@.']
+Generation 70
+[7, '|z{tlautrVOwXD`kM- tziv).']
+Generation 71
+[8, '|qatlautrVOwXD`kM- tziv).']
+Generation 72
+[8, '|qatlautrVOwXD`kM- tziv).']
+Generation 73
+[8, '|qatlautrrXwXD`kM- tziv).']
+Generation 74
+[8, '|qatlaxtrVOuXDekMe%tziv).']
+Generation 75
+[8, '|qatlaxtrVOuXDekMe%tziv).']
+Generation 76
+[8, '|zatlautrVO/XD`kv-taziv@.']
+Generation 77
+[8, '|qatlaxtrVOuXDekQe%tziv).']
+Generation 78
+[8, '|qatla{trVO/XD`kv-taziv@.']
+Generation 79
+[8, '|~atlaxtrVOuXDekEe%tziv).']
+Generation 80
+[8, '|~atlautrVOzXD`kv<taziv@.']
+Generation 81
+[8, '|~atlaxtrVO/XD`kw-taziv-.']
+Generation 82
+[8, '|~atlautrVOzXD`kv-Kaziv@.']
+Generation 83
+[9, 'WqatlautrVO/XD`kv-taziv@.']
+Generation 84
+[8, '|~atlautrVOzXD`kv-Kaziv@.']
+Generation 85
+[8, '|~atlaxtrVO/!D`-w-taziv-.']
+Generation 86
+[8, '|~atlaxtrVO/XD`-w-taziv-.']
+Generation 87
+[9, '|~atlautrVOzXD`kv- aziv@.']
+Generation 88
+[8, '|~atlaxtrVO/XDm-w-taziv-.']
+Generation 89
+[9, '|hatlautrVO/XD`kwvtaziv-.']
+Generation 90
+[9, "|~at'autrVO/qD`kw- aziv-."]
+Generation 91
+[9, '|hatlautrVO/Xe`.w-taziv-.']
+Generation 92
+[9, '|hatlaxtrVO%XD`-U-taziv-.']
+Generation 93
+[9, '|hatlaxtrVO/XD`-w-taziv-.']
+Generation 94
+[9, '|hatlaxtrVO/XD`-w-taziv-.']
+Generation 95
+[9, '|~atlautr#O/XD`kw-tayive.']
+Generation 96
+[9, '|~atlautr#O/XD`kw-tayive.']
+Generation 97
+[10, '|hatlautr#O/XD`kw-tayive.']
+Generation 98
+[9, '|~at~autr#O/XD`kw-tayive.']
+Generation 99
+[10, '|hatlautr#O/XD`kw-tayive.']
+Generation 100
+[10, '|hatlautr#O/XD`kw-tayive.']
+Generation 101
+[10, '|hatlautr#O/XD`kw-wayive.']
+Generation 102
+[10, '|hatlautrvO/tD`kw-tayive.']
+Generation 103
+[10, '|hatlautr#O/XD`kw-ta|ive.']
+Generation 104
+[10, '|hatlautr#O|XD`kw-wayive.']
+Generation 105
+[10, '|hatlaxtrmO/xD`-w-taziv-.']
+Generation 106
+[10, '|hatlaxtrmO/xD`-w-taziv-.']
+Generation 107
+[10, '|hatlaxtrmO/xD`-w-taziv-.']
+Generation 108
+[10, '|hatlaxtrmO/xD`-w-taziv-.']
+Generation 109
+[10, '|hatla}tr#O/XD`kw-tayive.']
+Generation 110
+[10, '|hatqa"tr#O/XD`kw-=ayive.']
+Generation 111
+[10, '|hat{a"tr#O/XD`kw-tayive.']
+Generation 112
+[10, '|hat{axtrmO/xD`-w-taziv-.']
+Generation 113
+[10, '}hatlautrvO/tD`kw-tayive.']
+Generation 114
+[11, '|hatla"tr#O,XD`kw-tayive.']
+Generation 115
+[11, '|hatla"tr#O,XD`kw-tayive.']
+Generation 116
+[11, '|hatla"tr#O,XD`kw-tayive.']
+Generation 117
+[10, '}hatlaytr;O|XD`kw-wayive.']
+Generation 118
+[11, '|hatlautr;O|=D`kw-walive.']
+Generation 119
+[11, '}hatlautr#O/XD` w-ta|ive.']
+Generation 120
+[11, '|hatzautr;O|=D`kw-walive.']
+Generation 121
+[11, '|hatzautr;O|=D`kw-walive.']
+Generation 122
+[11, '|hatzautr;O|=D`kw-walive.']
+Generation 123
+[11, '|hatzautr;O|=D`kw-walive.']
+Generation 124
+[11, '|hatzautr;O|=D`kw-walive.']
+Generation 125
+[11, '|hatzautr;O|=D`kw-walive.']
+Generation 126
+[12, '|hat autr;O|=DIkw(walive.']
+Generation 127
+[12, '|hat avtr#O/XDy wKta|ive.']
+Generation 128
+[12, '|hat autr;O|=D`kw-walive.']
+Generation 129
+[12, '|hat avtr#O/XDy wKta|ive.']
+Generation 130
+[12, '|hat autr;O|=D`kw-walive.']
+Generation 131
+[11, '~hatlavtr#O/XDy wKta|ive.']
+Generation 132
+[12, '|hat autr;O|=D`kw-walive.']
+Generation 133
+[12, '|hat autr;O|=D`kw-walive.']
+Generation 134
+[12, '|hat axtr;O|=DIkw-walive.']
+Generation 135
+[12, '|hat autr^O|=OIkw(ialive.']
+Generation 136
+[12, '|hat avtr#a/X|y wKta|ive.']
+Generation 137
+[12, '|hat avtr#O=NDy wKta|ive.']
+Generation 138
+[12, '~hat avtr#O=CDy wKta|ive.']
+Generation 139
+[12, '~hat autr;O|=DIkw-walive.']
+Generation 140
+[13, 'Ihat avtr#O,Xsy wEta|ive.']
+Generation 141
+[12, '~hatlavtr#O,Xsy wEta|ive.']
+Generation 142
+[12, '~hatlavtr#O,Xsy wEta|ive.']
+Generation 143
+[13, '|hat avtr#O,Xsy wEta|ive.']
+Generation 144
+[13, 'Ihat avtr#O,Xsy wEta|ive.']
+Generation 145
+[13, 'Mhat a tr#O/lDy wKta|ive.']
+Generation 146
+[13, '~hatla tr#O,lDy wKta|ive.']
+Generation 147
+[14, 'Ihat a tr#O,lDy wKta|ive.']
+Generation 148
+[14, '|hat a tr#O,lDy wKta|ive.']
+Generation 149
+[14, 'Ihat a tr#O,lD` wKta|ive.']
+Generation 150
+[14, '|hat a tr#O,lD` wKta|ive.']
+Generation 151
+[14, '|hat a tr#O,lD` wKta|ive.']
+Generation 152
+[14, '|hat a tr#O,lD` wKta|ive.']
+Generation 153
+[14, '|hat a tr#O,lD` wKta|ive.']
+Generation 154
+[14, '|hat a tr#O,lD` wKta|ive.']
+Generation 155
+[14, '|hat a tr#Q,lD` ZKta|ive.']
+Generation 156
+[14, '|hat a tr#Q,lD` Z!ta|ive.']
+Generation 157
+[14, '|hat a tr#U,lD` wKta|ive.']
+Generation 158
+[14, '|hat a tr#U,lD` wKta|ive.']
+Generation 159
+[14, '|hat a tr^U,lD` wKta|ive.']
+Generation 160
+[14, '~hat a tr#O,lz` .Kta|ive.']
+Generation 161
+[14, '|hat a tro#,lD` wKta|ive.']
+Generation 162
+[14, '~hat a tr#O,lD` ZKlaGive.']
+Generation 163
+[14, '~hat a tr#a,lD` ZKta|ive.']
+Generation 164
+[14, '~hat a tr##,lD` ZKta|ive.']
+Generation 165
+[14, '|hat a tro#,lDv wKta|ive.']
+Generation 166
+[14, '~hat a tr#O,lD` wKta-ive.']
+Generation 167
+[15, '|hat a tr#O,lD` Zela|ive.']
+Generation 168
+[15, '|hat a tr#O,lD` Zela|ive.']
+Generation 169
+[14, '~hat a trDa,lD` ZKta|ive.']
+Generation 170
+[15, '|hat a trmO,lD` ZKla|ive.']
+Generation 171
+[15, '|hat a trmO,lD` ZKla|ive.']
+Generation 172
+[15, '|hat a trmO,lD` ZKla|ive.']
+Generation 173
+[15, '~hat a trmO,lD` ZKla|ive.']
+Generation 174
+[15, '~hat a trmO,lD` ZKla|ive.']
+Generation 175
+[15, '~hat a trmO,lD` ZKla|ive.']
+Generation 176
+[15, '|hat a trmO,lD` ZKla|ive.']
+Generation 177
+[15, '~hat a trmO,lD` ZKla|ive.']
+Generation 178
+[15, '~hat a trmO,lD` ZKla|ive.']
+Generation 179
+[15, '~hat a trv#,#D` )eta|ive.']
+Generation 180
+[15, '~hat a trmO,lx` KKla|ive.']
+Generation 181
+[15, '~hat a trmO,lD` oKla|ive.']
+Generation 182
+[15, '~hat a trmW,lD` Z^la|ive.']
+Generation 183
+[15, '~hat a trv#,#D` )eta|ive.']
+Generation 184
+[15, '~hat a t~mO,ls` ZKla|ive.']
+Generation 185
+[15, '~hat a t~mO,ls` ZKla|ive.']
+Generation 186
+[15, '~hat a t~mO,ls` ZKla|ive.']
+Generation 187
+[16, '|hat a tr:O,lD` wK alive.']
+Generation 188
+[16, '~hat a tr:O,lD` wK alive.']
+Generation 189
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 190
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 191
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 192
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 193
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 194
+[16, '~hat a t$mO,lxo KYla|ive.']
+Generation 195
+[16, '~hat a trmO,lt` ZKla|ive.']
+Generation 196
+[16, '~hat a t$mO,vxo KYla|ive.']
+Generation 197
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 198
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 199
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 200
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 201
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 202
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 203
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 204
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 205
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 206
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 207
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 208
+[16, '~hat a t$mO,lxo KKla|ive.']
+Generation 209
+[16, '~hat a t$mO,lxo K^la|ive.']
+Generation 210
+[16, '~hat a t$mO,lxo K^la|ive.']
+Generation 211
+[16, '~hat a t$mO,lxo K^la|ive.']
+Generation 212
+[16, '~hat a t$mO,lxo K^la|ive.']
+Generation 213
+[16, '~hat a t$mO,lxo K^la|ive.']
+Generation 214
+[16, '~hat aXt$mO,\\xo KKlalive.']
+Generation 215
+[16, '~hat aXtymO,\\xo KKlalive.']
+Generation 216
+[17, '~hat a t$mO, xo KKla|ive.']
+Generation 217
+[17, '~hat a t$mO, xo KKva|ive.']
+Generation 218
+[17, '~hat a t$me,lxo KKla|ive.']
+Generation 219
+[17, '~hat a t$me,lxo KKla|ive.']
+Generation 220
+[17, '~hat a t$me,lxo }Kla|ive.']
+Generation 221
+[17, '~hat a t$me,lxo }Kla|ive.']
+Generation 222
+[17, '~hat a t$me,lxo }Kla|ive.']
+Generation 223
+[17, 'What a tRmO,lxo KKlaUive.']
+Generation 224
+[17, 'What a t$mO,lYo +Kla|ive.']
+Generation 225
+[16, '~hat aXt$m., xo Kqla|ive.']
+Generation 226
+[17, 'What a t(mO,lxo KRla|ive.']
+Generation 227
+[16, '~hat aut$m., xo Kqla|ive.']
+Generation 228
+[16, '~hat aut$m., xo Kqla|ive.']
+Generation 229
+[16, '~hat aut$m., xo Kqla|ive.']
+Generation 230
+[16, '~hat aut$m., xo Kqla|ive.']
+Generation 231
+[16, '~hat aut$m., xo Kqla|ive.']
+Generation 232
+[16, '~hat aut$m., xo Kqla|ive.']
+Generation 233
+[16, '~hat aut$m., xo ]qla|ive.']
+Generation 234
+[16, '~hat ayt$m., xo K^la|ive.']
+Generation 235
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 236
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 237
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 238
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 239
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 240
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 241
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 242
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 243
+[17, '~hat aJt$m., xo bqla|ive.']
+Generation 244
+[17, '~hat aJtXm., xo bnla|ive.']
+Generation 245
+[17, '~hat aJtxm., xo Kela|ive.']
+Generation 246
+[17, '~hat aJtxm., xo Kela|ive.']
+Generation 247
+[17, '~hat aJtxm., xo Kela|ive.']
+Generation 248
+[17, '~hat aJtxm., xo Kela|ive.']
+Generation 249
+[17, '~hat aut$m., xo bq#a|ive.']
+Generation 250
+[17, '~hat aJtxm., xo Kela|ive.']
+Generation 251
+[18, 'What aJt$m., xo Kela|ive.']
+Generation 252
+[18, 'What aJt$m., xo #ela|ive.']
+Generation 253
+[17, '~hat att$m., xo Kela|ive.']
+Generation 254
+[17, '~hat att$m., xo Kela|ive.']
+Generation 255
+[17, '~hat a{t$m@, xo Fela|ive.']
+Generation 256
+[17, '~hat a{t$m@, xo eela|ive.']
+Generation 257
+[17, '~hat aht$m., xo rela|ive.']
+Generation 258
+[17, '~hat aht$m., xo rela|ive.']
+Generation 259
+[17, '~hat ast$m., xo Kela|ive.']
+Generation 260
+[17, '~hat awt$m., xo Kela|ive.']
+Generation 261
+[18, '~hat a<t$mV, co bq#alive.']
+Generation 262
+[18, '~hat a<t$ml, co bq#alive.']
+Generation 263
+[18, '~hat aJtim@, xo Fela|ive.']
+Generation 264
+[18, '~hat aJt$me, xo bqza|ive.']
+Generation 265
+[18, '~hat aJt$me, xo bqza|ive.']
+Generation 266
+[18, '~hat aJt$me, xo bqza|ive.']
+Generation 267
+[18, '~hat aJt$me, xo bqza|ive.']
+Generation 268
+[18, '~hat aJt$me, xo bqza|ive.']
+Generation 269
+[18, '~hat aJt$me, xo bqza|ive.']
+Generation 270
+[18, '~hat aJt$me, xo bqza|ive.']
+Generation 271
+[18, '~hat aJtQm., to bqza|ive.']
+Generation 272
+[18, '~hat art$m., to bqza|ive.']
+Generation 273
+[18, '~hat aJt$me, xo bqza|ive.']
+Generation 274
+[18, '~hat a~t$me, xo bqza|ive.']
+Generation 275
+[18, '~hat aJt?me, xo bqza|ive.']
+Generation 276
+[18, '~hat aJthme, xo bqza|ive.']
+Generation 277
+[18, '~hat aJthme, xo bqza|ive.']
+Generation 278
+[18, '~hat aJthme, xo bqza|ive.']
+Generation 279
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 280
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 281
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 282
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 283
+[18, '~hat azthme, xo bqza|ive.']
+Generation 284
+[19, '~hat a t$me, xo bqza|ive.']
+Generation 285
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 286
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 287
+[18, '~hat ait$mb, to Ke]a|ive.']
+Generation 288
+[18, '~hat ait$mb, to Ke]a|ive.']
+Generation 289
+[19, 'What aJt$m., to bx/a|ive.']
+Generation 290
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 291
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 292
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 293
+[18, '~hat asthme, So b-za|ive.']
+Generation 294
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 295
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 296
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 297
+[18, '~hat ait$mY, to Ke]a|ive.']
+Generation 298
+[19, '~hat aKthme, to bqga.ive.']
+Generation 299
+[19, '~hat aKthme, to bqga.ive.']
+Generation 300
+[19, '~hat aitimT, to Ke]a|ive.']
+Generation 301
+[19, '~hat aitimT, to Ke]a|ive.']
+Generation 302
+[18, '~hat ait$mY, to }e]a|ive.']
+Generation 303
+[18, '~hat ait$mY, to }e]a|ive.']
+Generation 304
+[18, '~hat ait$mY, to }e]a|ive.']
+Generation 305
+[19, '~hat ait$mY, to Ke]alive.']
+Generation 306
+[19, '~hat ait$mY, to Ke]alive.']
+Generation 307
+[19, '~hat ait$mY, to Ke]alive.']
+Generation 308
+[19, '~hat ait$mY, to Ke]alive.']
+Generation 309
+[19, '~hat ait$mY, to Ke]alive.']
+Generation 310
+[18, '~hat aythme, Jo bqzanive.']
+Generation 311
+[18, '~hat aythme, Jo bqzanive.']
+Generation 312
+[19, '~hat aetime, xo bqzanive.']
+Generation 313
+[19, '~hat aetime, xo bqzanive.']
+Generation 314
+[19, '~hat aetime, xo bqzanive.']
+Generation 315
+[19, '~hat aetime, xo bqzanive.']
+Generation 316
+[19, '~hat aetime, xo bqzanive.']
+Generation 317
+[19, '~hat aetime, xo bqzanive.']
+Generation 318
+[19, '~hat aetime, xo bqzanive.']
+Generation 319
+[19, '~hat aetime, xo bqzanive.']
+Generation 320
+[19, '~hat akt$me, to bqzaEive.']
+Generation 321
+[19, '~hat akt$me, to bqzaEive.']
+Generation 322
+[19, '~hat akt$me, to bqzaEive.']
+Generation 323
+[19, '~hat akt$me, to bqzaEive.']
+Generation 324
+[19, '~hat akt$me, to bqzaEive.']
+Generation 325
+[19, '~hat aetime, {o bqzanive.']
+Generation 326
+[19, '~hat awtdme, to bqzaPive.']
+Generation 327
+[20, '~hat a time, xo bqzanive.']
+Generation 328
+[20, '~hat a time, xo bqzanive.']
+Generation 329
+[20, '~hat a time, xo bqzanive.']
+Generation 330
+[20, '~hat a time, xo bqzanive.']
+Generation 331
+[20, '~hat a time, xo bqzanive.']
+Generation 332
+[20, '~hat a time, xo bqzanive.']
+Generation 333
+[20, '~hat a time, xo bqzanive.']
+Generation 334
+[20, '~hat a time, xo bqzanive.']
+Generation 335
+[20, '~hat a time, xo bqzanive.']
+Generation 336
+[20, '~hat aRtime, xo bezaAive.']
+Generation 337
+[20, '~hat aRtime, xo bezaAive.']
+Generation 338
+[20, '~hat aRtime, xo bezaAive.']
+Generation 339
+[20, '~hat aRtime, xo bezaAive.']
+Generation 340
+[20, '~hat aRtime, xo bezaAive.']
+Generation 341
+[20, '~hat aRtime, xo bezaKive.']
+Generation 342
+[20, '~hat aRtime, xo bezaKive.']
+Generation 343
+[20, '~hat aRtime, xo bezaKive.']
+Generation 344
+[20, '~hat aetime, xo bezanive.']
+Generation 345
+[20, '~hat aetime, xo bezanive.']
+Generation 346
+[20, '~hat aetime, xo bezanive.']
+Generation 347
+[21, '~hat aRtime, xo bezalive.']
+Generation 348
+[21, '~hat aRtime, xo bezalive.']
+Generation 349
+[20, '~hat aetime, xo bezanive.']
+Generation 350
+[20, '~hat aetime, xo be|anive.']
+Generation 351
+[20, '~hat aetime, xo bezanive.']
+Generation 352
+[20, '~hat aetime, xo bezanive.']
+Generation 353
+[20, '~hat aetime, xo bezanive.']
+Generation 354
+[20, '~hat aetime, xo bezanive.']
+Generation 355
+[20, '~hat aetime, xo bezanive.']
+Generation 356
+[20, '~hat aetime, xo bezanive.']
+Generation 357
+[20, '~hat aetime, xo bezanive.']
+Generation 358
+[20, '~hat aetime, xo bezanive.']
+Generation 359
+[20, '~hat aytime, xo bezaVive.']
+Generation 360
+[21, '~hat a time, xo bexaRive.']
+Generation 361
+[21, '~hat a time, xo bexaRive.']
+Generation 362
+[21, '~hat a time, xo bexaRive.']
+Generation 363
+[20, '~hat aytime, xo bezaVive.']
+Generation 364
+[20, '~hat aetime, xo bezanive.']
+Generation 365
+[20, '~hat aetime, xo bezanive.']
+Generation 366
+[20, '~hat attime, xo be aAi-e.']
+Generation 367
+[20, '~hat attime, xo be aAi-e.']
+Generation 368
+[20, '~hat aetime, xo bezanive.']
+Generation 369
+[20, '~hat aetime, xo bezanive.']
+Generation 370
+[21, '~hat a(time, to be aAi-e.']
+Generation 371
+[21, '~hat a(time, to be aAi-e.']
+Generation 372
+[21, '~hat a(time, to be aAi-e.']
+Generation 373
+[21, '~hat a(time, to be aAi-e.']
+Generation 374
+[21, '~hat a(time, to be aAi-e.']
+Generation 375
+[21, '~hat a(time, to be aAi-e.']
+Generation 376
+[21, '~hat aetime, uo bezalive.']
+Generation 377
+[21, '~hat a time, xo bezaAive.']
+Generation 378
+[21, '~hat a time, xo bezaAive.']
+Generation 379
+[21, '~hat a time, xo bezaAive.']
+Generation 380
+[20, '~hat axtime, xo be aAi-e.']
+Generation 381
+[20, '~hat axtime, xo be aAi-e.']
+Generation 382
+[20, '~hat axtime, xo be aAi-e.']
+Generation 383
+[20, '~hat axtime, xo be aAi-e.']
+Generation 384
+[20, '~hat axtime, xo be aAi-e.']
+Generation 385
+[20, '~hat aztime, uo bezaZive.']
+Generation 386
+[20, '~hat aztime, uo bezaZive.']
+Generation 387
+[20, '~hat aztime, uo bezaZive.']
+Generation 388
+[20, '~hat aztime, uo bezaZive.']
+Generation 389
+[20, '~hat aztime, uo bezaZive.']
+Generation 390
+[20, '~hat aztime, uo bezaZive.']
+Generation 391
+[20, '~hat aztime, uo bezaZive.']
+Generation 392
+[20, '~hat aztime, uo bezaZive.']
+Generation 393
+[20, '~hat aztime, uo bezaZive.']
+Generation 394
+[20, '~hat aztime, uo bezasive.']
+Generation 395
+[20, '~hat aztime, |o bezasive.']
+Generation 396
+[21, '~hat ahtime, xo be ali]e.']
+Generation 397
+[20, '~hat aztime, uo bezaZive.']
+Generation 398
+[20, '~hat aztime, uo bezaZive.']
+Generation 399
+[20, '~hat aztime, uo bezaZive.']
+Generation 400
+[20, '~hat aztime, uo bezaZive.']
+Generation 401
+[20, '~hat aztime, uo bezaZive.']
+Generation 402
+[20, '~hat aztime, uo bezaZive.']
+Generation 403
+[20, '~hat aztime, uo bezaZive.']
+Generation 404
+[20, '~hat aztime, uo bezaZive.']
+Generation 405
+[20, '~hat aztime, uo bezaZive.']
+Generation 406
+[20, '~hat aztime, uo bezaZive.']
+Generation 407
+[20, '~hat aztime, uo bezaZive.']
+Generation 408
+[20, '~hat a~time, bo bezagive.']
+Generation 409
+[20, '~hat a~time, bo bezagive.']
+Generation 410
+[21, 'What antime, bo bezagive.']
+Generation 411
+[21, 'What axtime, ,o be aAife.']
+Generation 412
+[21, 'What axtime, xo be aAi-e.']
+Generation 413
+[21, 'What axtime, xo be aAi-e.']
+Generation 414
+[21, 'What aztime, uo bezaZive.']
+Generation 415
+[21, 'What axtime, xo be aAi-e.']
+Generation 416
+[21, 'What axtime, ,o be aAife.']
+Generation 417
+[21, 'What axtime, xo be aKi-e.']
+Generation 418
+[21, 'What axtime, ho be aAiWe.']
+Generation 419
+[21, 'What aztime, uo bezaZive.']
+Generation 420
+[21, 'What aztime, uo bezaZive.']
+Generation 421
+[21, 'What aztime, uo bezaZive.']
+Generation 422
+[21, 'What aztime, uo bezaZive.']
+Generation 423
+[21, 'What aztime, uo bezaZive.']
+Generation 424
+[21, 'What aztime, uo bezaZive.']
+Generation 425
+[21, 'What aztime, uo bezaZive.']
+Generation 426
+[21, 'What aztime, mo bezaZive.']
+Generation 427
+[21, '~hat axtime, to be aqi&e.']
+Generation 428
+[21, '~hat axtime, to be aqi&e.']
+Generation 429
+[21, 'What a|time, uo bezaZive.']
+Generation 430
+[21, 'What aztime, uo bezaZive.']
+Generation 431
+[21, 'What a|time, uo bezaZive.']
+Generation 432
+[21, 'What aztime, uo bezaZive.']
+Generation 433
+[21, 'What axtime, yo be aqi#e.']
+Generation 434
+[21, 'What aztime, uo bezaZive.']
+Generation 435
+[21, 'What aztime, mo bezaZive.']
+Generation 436
+[21, '~hat aztime, to bezaZive.']
+Generation 437
+[21, '~hat aztime, to bezaZive.']
+Generation 438
+[21, '~hat aztime, to bezaZive.']
+Generation 439
+[21, '~hat axtime, |o be aqive.']
+Generation 440
+[21, '~hat axtime, |o be aqive.']
+Generation 441
+[21, '~hat axtime, |o be aqive.']
+Generation 442
+[21, '~hat axtime, |o be aqive.']
+Generation 443
+[21, '~hat axtime, |o be aqive.']
+Generation 444
+[21, '~hat axtime, |o be aqive.']
+Generation 445
+[20, '~hat a|time, uo bezaZive.']
+Generation 446
+[20, '~hat a|time, :o be~aZive.']
+Generation 447
+[20, '~hat a|time, :o be~aZive.']
+Generation 448
+[20, '~hat a|time, :o bezaZive.']
+Generation 449
+[20, '~hat a|time, :o bezaZive.']
+Generation 450
+[20, '~hat a|time, :o bezaZive.']
+Generation 451
+[20, '~hat a|time, |o bezaZive.']
+Generation 452
+[21, '~hat aztime, |o be apive.']
+Generation 453
+[21, '~hat aztime, |o be apive.']
+Generation 454
+[21, '~hat aztime, |o be apive.']
+Generation 455
+[21, '~hat aztime, |o be apive.']
+Generation 456
+[21, '~hat aztime, |o be apive.']
+Generation 457
+[20, '~hat a|time, |o bezaZive.']
+Generation 458
+[20, '~hat a|time, |o bezaZive.']
+Generation 459
+[20, '~hat a|time, |o bezaZive.']
+Generation 460
+[20, '~hat a|time, |o bezaZive.']
+Generation 461
+[20, '~hat a|time, |o bezaZive.']
+Generation 462
+[20, '~hat a|time, |o bezaZive.']
+Generation 463
+[20, '~hat a|time, |o bezaZive.']
+Generation 464
+[20, '~hat a|time, |o bezaZive.']
+Generation 465
+[20, '~hat a|time, |o bezaZive.']
+Generation 466
+[20, '~hat a|time, |o bezaZive.']
+Generation 467
+[20, '~hat a|time, |o bezaZive.']
+Generation 468
+[20, '~hat a|time, |o bezaZive.']
+Generation 469
+[20, '~hat a|time, |o bezaZive.']
+Generation 470
+[20, '~hat a|time, |o bezaZive.']
+Generation 471
+[20, '~hat a|time, |o bezaZive.']
+Generation 472
+[20, '~hat a|time, |o bezaZive.']
+Generation 473
+[20, '~hat a|time, |o bezaZive.']
+Generation 474
+[20, '~hat a|time, |o bezaZive.']
+Generation 475
+[20, '~hat a|time, |o bezaZive.']
+Generation 476
+[20, '~hat a|time, |o bezaZive.']
+Generation 477
+[21, '~hat a|time, ^o be aZive.']
+Generation 478
+[20, '~hat a|time, |o bezaZive.']
+Generation 479
+[20, '~hat a|time, |o bezaZive.']
+Generation 480
+[20, '~hat a|time, |o bezaZive.']
+Generation 481
+[21, 'What aztime, |o bezaiive.']
+Generation 482
+[21, 'What aztime, |o bezapive.']
+Generation 483
+[20, '~hat a~time, ^o beSaZive.']
+Generation 484
+[20, '~hat a|time, |o bezaZive.']
+Generation 485
+[20, '~hat a|time, |o bezaZive.']
+Generation 486
+[21, '~hat a time, ^o beSaZive.']
+Generation 487
+[20, '~hat a|time, |o bezaZive.']
+Generation 488
+[20, '~hat a|time, |o bezaZive.']
+Generation 489
+[20, '~hat a|time, |o bezaZive.']
+Generation 490
+[20, '~hat a|time, |o bezaZive.']
+Generation 491
+[20, '~hat a|time, |o bezaZive.']
+Generation 492
+[20, '~hat a|time, |o bezaZive.']
+Generation 493
+[20, '~hat a|time, |o bezaZive.']
+Generation 494
+[20, '~hat a|time, |o bezaZive.']
+Generation 495
+[20, '~hat a|time, |o bezaZive.']
+Generation 496
+[21, '~hat a|time, to bezaZive.']
+Generation 497
+[21, '~hat a|time, to bezaZive.']
+Generation 498
+[21, '~hat a|time, to bezaZive.']
+Generation 499
+[21, '~hat a|time, to bezaZive.']
+Generation 500
+[21, '~hat a|time, to bezaZive.']
+Generation 501
+[21, '~hat a|time, to bezaZive.']
+Generation 502
+[21, '~hat a|time, to bezaZive.']
+Generation 503
+[21, '~hat a|time, to bezaZive.']
+Generation 504
+[21, '~hat a|time, to bezafive.']
+Generation 505
+[21, '~hat a|time, to bezafive.']
+Generation 506
+[21, '~hat a|time, to bezafive.']
+Generation 507
+[21, '~hat a|time, to bezafive.']
+Generation 508
+[21, '~hat a|time, to bezafive.']
+Generation 509
+[21, '~hat a|time, to bezafive.']
+Generation 510
+[21, '~hat a|time, to bezaZive.']
+Generation 511
+[22, '~hat a time, ^o be\\alive.']
+Generation 512
+[21, '~hat a|time, to be{aZive.']
+Generation 513
+[21, '~hat a|time, to be{aZive.']
+Generation 514
+[22, 'What a time, ^o be\\aZive.']
+Generation 515
+[21, '~hat a|time, to be{aZive.']
+Generation 516
+[22, 'What a|time, to be{aZive.']
+Generation 517
+[21, '~hat a|time, to be{aZive.']
+Generation 518
+[21, '~hat a|time, to be{abive.']
+Generation 519
+[21, '~hat a|time, to be{abive.']
+Generation 520
+[21, '~hat a|time, to be{abive.']
+Generation 521
+[21, '~hat a|time, to be{aZive.']
+Generation 522
+[21, '~hat a|time, to be{aZive.']
+Generation 523
+[21, '~hat a|time, to be{aeive.']
+Generation 524
+[21, '~hat a|time, to be{aeive.']
+Generation 525
+[21, '~hat a|time, to be{aeive.']
+Generation 526
+[21, '~hat a|time, to be{aeive.']
+Generation 527
+[21, '~hat a|time, to be{aeive.']
+Generation 528
+[21, '~hat a|time, to be{aeive.']
+Generation 529
+[21, '~hat a|time, to be{aeive.']
+Generation 530
+[21, '~hat a|time, to be{aeive.']
+Generation 531
+[21, '~hat a|time, to be{aZive.']
+Generation 532
+[21, '~hat a|time, to be{aZive.']
+Generation 533
+[21, '~hat a|time, to be{aZive.']
+Generation 534
+[21, '~hat a|time, to be{ajive.']
+Generation 535
+[21, '~hat a|time, to be{ajive.']
+Generation 536
+[21, '~hat a|time, to be{a}ive.']
+Generation 537
+[22, '~hat a|time, to be aZive.']
+Generation 538
+[22, '~hat a|time, to be aZive.']
+Generation 539
+[22, '~hat a|time, to be aZive.']
+Generation 540
+[22, '~hat a|time, to be aZive.']
+Generation 541
+[22, '~hat a|time, to be aZive.']
+Generation 542
+[22, '~hat a|time, to be aZive.']
+Generation 543
+[22, '~hat a|time, to be aZive.']
+Generation 544
+[22, '~hat a|time, to be aZive.']
+Generation 545
+[22, '~hat a|time, to be aZive.']
+Generation 546
+[22, '~hat a|time, to be aZive.']
+Generation 547
+[22, '~hat a|time, to be aZive.']
+Generation 548
+[22, '~hat a|time, to be aZive.']
+Generation 549
+[22, '~hat a|time, to be aZive.']
+Generation 550
+[22, '~hat a|time, to be aZive.']
+Generation 551
+[22, '~hat a|time, to be aZive.']
+Generation 552
+[22, '~hat a|time, to be aZive.']
+Generation 553
+[22, '~hat a|time, to be aZive.']
+Generation 554
+[22, '~hat a|time, to be aZive.']
+Generation 555
+[22, '~hat a|time, to be aZive.']
+Generation 556
+[22, '~hat a|time, to be aZive.']
+Generation 557
+[22, '~hat a|time, to be aZive.']
+Generation 558
+[22, '~hat a|time, to be aZive.']
+Generation 559
+[22, '~hat a|time, to be aZive.']
+Generation 560
+[22, '~hat a|time, to be aZive.']
+Generation 561
+[22, '~hat a|time, to be aZive.']
+Generation 562
+[22, '~hat a|time, to be aZive.']
+Generation 563
+[22, '~hat a|time, to be aZive.']
+Generation 564
+[22, '~hat a|time, to be aZive.']
+Generation 565
+[22, '~hat a|time, to be aZive.']
+Generation 566
+[22, '~hat a|time, to be aZive.']
+Generation 567
+[22, '~hat a|time, to be aZive.']
+Generation 568
+[22, '~hat a|time, to be aZive.']
+Generation 569
+[22, '~hat a|time, to be aZive.']
+Generation 570
+[22, '~hat a|time, to be aZive.']
+Generation 571
+[22, '~hat a|time, to be aZive.']
+Generation 572
+[22, '~hat a|time, to be aZive.']
+Generation 573
+[22, '~hat a|time, to be aZive.']
+Generation 574
+[22, '~hat a|time, to be ahive.']
+Generation 575
+[22, '~hat a|time, to be aZive.']
+Generation 576
+[22, '~hat a|time, to be aZive.']
+Generation 577
+[22, '~hat a|time, to be a{ive.']
+Generation 578
+[22, '~hat a|time, to be a{ive.']
+Generation 579
+[22, '~hat a|time, to be a{ive.']
+Generation 580
+[22, '~hat a|time, to be a{ive.']
+Generation 581
+[22, '~hat a|time, to be a]ive.']
+Generation 582
+[22, '~hat a|time, to be a]ive.']
+Generation 583
+[22, '~hat a|time, to be a]ive.']
+Generation 584
+[22, '~hat a}time, to be aZive.']
+Generation 585
+[22, '~hat a}time, to be aZive.']
+Generation 586
+[22, '~hat a}time, to be aZive.']
+Generation 587
+[22, '~hat a|time, to be a]ive.']
+Generation 588
+[23, '~hat a time, to be aZive.']
+Generation 589
+[23, '~hat a time, to be aZive.']
+Generation 590
+[23, '~hat a time, to be aZive.']
+Generation 591
+[23, '~hat a time, to be aZive.']
+Generation 592
+[23, 'rhat a time, to be aZive.']
+Generation 593
+[23, '~hat a time, to be aZive.']
+Generation 594
+[23, '~hat a time, to be aZive.']
+Generation 595
+[23, '~hat a time, to be aZive.']
+Generation 596
+[23, '~hat a time, to be aZive.']
+Generation 597
+[23, '~hat a time, to be aZive.']
+Generation 598
+[23, '~hat a time, to be aZive.']
+Generation 599
+[23, '~hat a time, to be aZive.']
+Generation 600
+[23, '~hat a time, to be aZive.']
+Generation 601
+[23, '~hat a time, to be aZive.']
+Generation 602
+[23, '~hat a time, to be aZive.']
+Generation 603
+[23, '~hat a time, to be aZive.']
+Generation 604
+[23, '~hat a time, to be aZive.']
+Generation 605
+[23, '~hat a time, to be a|ive.']
+Generation 606
+[23, '~hat a time, to be a|ive.']
+Generation 607
+[23, '~hat a time, to be a|ive.']
+Generation 608
+[23, '~hat a time, to be a|ive.']
+Generation 609
+[23, '~hat a time, to be a|ive.']
+Generation 610
+[23, '~hat a time, to be a|ive.']
+Generation 611
+[23, '~hat a|time, to be alive.']
+Generation 612
+[23, '~hat a|time, to be alive.']
+Generation 613
+[23, '~hat a|time, to be alive.']
+Generation 614
+[23, '~hat a|time, to be alive.']
+Generation 615
+[23, '~hat a|time, to be alive.']
+Generation 616
+[23, '~hat a|time, to be alive.']
+Generation 617
+[23, '~hat a|time, to be alive.']
+Generation 618
+[23, '~hat a|time, to be alive.']
+Generation 619
+[23, '~hat a|time, to be alive.']
+Generation 620
+[23, '~hat a|time, to be alive.']
+Generation 621
+[23, '~hat a|time, to be alive.']
+Generation 622
+[23, '~hat a|time, to be alive.']
+Generation 623
+[23, '~hat a|time, to be alive.']
+Generation 624
+[23, '~hat a|time, to be alive.']
+Generation 625
+[23, '~hat a|time, to be alive.']
+Generation 626
+[23, '~hat a|time, to be alive.']
+Generation 627
+[23, '~hat a|time, to be alive.']
+Generation 628
+[23, '~hat a|time, to be alive.']
+Generation 629
+[23, '~hat a|time, to be alive.']
+Generation 630
+[23, '~hat a|time, to be alive.']
+Generation 631
+[23, '~hat a|time, to be alive.']
+Generation 632
+[23, '~hat a|time, to be alive.']
+Generation 633
+[23, '~hat a|time, to be alive.']
+Generation 634
+[23, '~hat a|time, to be alive.']
+Generation 635
+[23, '~hat a|time, to be alive.']
+Generation 636
+[23, '~hat a|time, to be alive.']
+Generation 637
+[23, '~hat a|time, to be alive.']
+Generation 638
+[24, '~hat a time, to be alive.']
+Generation 639
+[24, '~hat a time, to be alive.']
+Generation 640
+[24, '~hat a time, to be alive.']
+Generation 641
+[24, '~hat a time, to be alive.']
+Generation 642
+[24, '~hat a time, to be alive.']
+Generation 643
+[23, '~hat a|time, to be alive.']
+Generation 644
+[23, '~hat a|time, to be alive.']
+Generation 645
+[23, '~hat a|time, to be alive.']
+Generation 646
+[23, '~hat a|time, to be alive.']
+Generation 647
+[23, '~hat a|time, to be alive.']
+Generation 648
+[23, '~hat a|time, to be alive.']
+Generation 649
+[23, '~hat a|time, to be alive.']
+Generation 650
+[23, '~hat a|time, to be alive.']
+Generation 651
+[23, '~hat a|time, to be alive.']
+Generation 652
+[23, '~hat a|time, to be alive.']
+Generation 653
+[23, '~hat a|time, to be alive.']
+Generation 654
+[23, '~hat a|time, to be alive.']
+Generation 655
+[23, '~hat a|time, to be alive.']
+Generation 656
+[23, '~hat a|time, to be alive.']
+Generation 657
+[23, '~hat a|time, to be alive.']
+Generation 658
+[23, '~hat a|time, to be alive.']
+Generation 659
+[23, '~hat a|time, to be alive.']
+Generation 660
+[23, '~hat a|time, to be alive.']
+Generation 661
+[23, '~hat a|time, to be alive.']
+Generation 662
+[23, '~hat a|time, to be alive.']
+Generation 663
+[23, '~hat a|time, to be alive.']
+Generation 664
+[23, '~hat a|time, to be alive.']
+Generation 665
+[23, '~hat a|time, to be alive.']
+Generation 666
+[23, '~hat a|time, to be alive.']
+Generation 667
+[23, '~hat a|time, to be alive.']
+Generation 668
+[23, '~hat a|time, to be alive.']
+Generation 669
+[23, '~hat a|time, to be alive.']
+Generation 670
+[23, '~hat a|time, to be alive.']
+Generation 671
+[23, '~hat a|time, to be alive.']
+Generation 672
+[23, '~hat a|time, to be alive.']
+Generation 673
+[23, '~hat a|time, to be alive.']
+Generation 674
+[23, '~hat a|time, to be alive.']
+Generation 675
+[23, '~hatHa time, to be alive.']
+Generation 676
+[24, '~hat a time, to be alive.']
+Generation 677
+[24, '~hat a time, to be alive.']
+Generation 678
+[24, '~hat a time, to be alive.']
+Generation 679
+[24, '~hat a time, to be alive.']
+Generation 680
+[24, '~hat a time, to be alive.']
+Generation 681
+[24, '~hat a time, to be alive.']
+Generation 682
+[24, '~hat a time, to be alive.']
+Generation 683
+[24, '~hat a time, to be alive.']
+Generation 684
+[24, '~hat a time, to be alive.']
+Generation 685
+[24, '~hat a time, to be alive.']
+Generation 686
+[24, '~hat a time, to be alive.']
+Generation 687
+[24, '~hat a time, to be alive.']
+Generation 688
+[24, '~hat a time, to be alive.']
+Generation 689
+[24, '~hat a time, to be alive.']
+Generation 690
+[24, '~hat a time, to be alive.']
+Generation 691
+[24, '~hat a time, to be alive.']
+Generation 692
+[24, '~hat a time, to be alive.']
+Generation 693
+[24, '~hat a time, to be alive.']
+Generation 694
+[24, '~hat a time, to be alive.']
+Generation 695
+[24, '~hat a time, to be alive.']
+Generation 696
+[24, '~hat a time, to be alive.']
+Generation 697
+[24, '~hat a time, to be alive.']
+Generation 698
+[25, 'What a time, to be alive.']
