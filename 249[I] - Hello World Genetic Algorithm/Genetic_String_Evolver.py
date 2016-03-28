@@ -1,4 +1,7 @@
-import random, string, time
+#Mitch Zinser
+#Genetic Algorithm that evolves a desired string from a randomly created pool of candidate strings
+
+import random, string, time, sys 
 #String for list of letters, time for timing operation
 letter_pool = string.ascii_letters + string.punctuation + " "
 
@@ -30,8 +33,6 @@ def pop_gen(pop_num, str_len, goal_str):
 Make variable mutation rate *(decrease as generation increases)
 MEMORY MANAGEMENT:
 (?)Only keep current and next generation in full, and keep the max 5 of previous generations
-MAKE MULTI THREADED:
-Make creating children parallel process using queue to store children
 '''
 def genetic(goal, pop_size, cross_rate, mutate_rate, gen_max):
 	#Get length of goal string
@@ -42,22 +43,31 @@ def genetic(goal, pop_size, cross_rate, mutate_rate, gen_max):
 	parent_cutoff = int(pop_size/4)
 	#Get index of where to split string of parent in crossover
 	cross_index = int(goal_len*cross_rate)
-	#list of all generations. Each generation is list of citiens (each citizen is a list of [fitness func value, string])
+
+	#Each generation is list of citiens (each citizen is a list of [fitness func value, string])
+	cur_gen = []
+	next_gen = []
+	#list of best fit for each generation. This allows basic archiving without wasting as much memory
 	generations = []
 	#Create starting population
-	generations.append(pop_gen(pop_size, goal_len, goal))
+	cur_gen = pop_gen(pop_size, goal_len, goal)
+
+	####generations.append(pop_gen(pop_size, goal_len, goal))
 	#Start main generation loop. Each iteration creates a new generation and evaluates the current one. Run until solution found or generation limit reached
 	for i in range(gen_max):
+		#Record best candidate in this generation
+		generations.append(max(cur_gen))
+
 		#Check if any of the generation are a perfect fit. Break if they are
-		if max(generations[i])[0] == goal_fit:
+		if max(cur_gen)[0] == goal_fit:
 			break
-			print("Break with", max(generations[i]))
+			print("Break with", max(cur_gen))
 		#Make pool of best fitness citizens and some not great fits for diversity. Do this by iterating through current generation and sorting. Take the top half and then
 		#Fill pool with top 3/4 of this generations citizens
-		parent_pool = sorted(generations[i])[parent_cutoff:]
+		parent_pool = sorted(cur_gen)[parent_cutoff:]
 
 		#Create empty list for next generation
-		generations.append([])
+		####generations.append([])
 		#Population size of next generation
 		next_gen_len = 0
 		#Create children until the next generation is long enough
@@ -83,8 +93,8 @@ def genetic(goal, pop_size, cross_rate, mutate_rate, gen_max):
 						child[let] = random.choice(letter_pool)
 				child = "".join(child)
 				#Get fitness value of child and add to next generation
-				generations[i+1].append([fitness(goal, child), child])
-				##print(child)
+				next_gen.append([fitness(goal, child), child])
+				
 
 				#Create second child
 				child = []
@@ -98,21 +108,25 @@ def genetic(goal, pop_size, cross_rate, mutate_rate, gen_max):
 						child[let] = random.choice(letter_pool)
 				child = "".join(child)
 				#Get fitness value of child and add to next generation
-				generations[i+1].append([fitness(goal, child), child])
+				next_gen.append([fitness(goal, child), child])
 				##print(child)
 				#Increment next gen size
 				next_gen_len += 2
 
+		#Copy next generation into current generation and reset next generation
+		cur_gen = next_gen
+		next_gen = []
 		#Print progress
 		if i%100 == 0:
 			print("On generation:", i)
+
 
 	return generations
 
 '''Observations
 Population:
 Higher populations (eg 1000+) take longer to run, but require fewer generations.
-Around 100-200 runs fastest for "What a time, to be alive.", but require many more generations.
+Around 100-200 runs fastest for shorter strings, but require many more generations.
 Nearly linear (Time to run and generations required) from observations, not quite, but enough for estimation.
 
 Crossover Rate:
@@ -131,8 +145,11 @@ Random number engine seeding does work for this algorithm, as expected.
 '''
 
 if __name__ == "__main__":
-	#String that will try to be evolved to
-	goal_string = "What a time, to be alive."
+	if len(sys.argv) > 1:
+		#String that will try to be evolved to
+		goal_string = sys.argv[1]
+	else:
+		goal_string = "Long string, aaahhAAAHHaaahh, fighter of the short string."
 	#Population size
 	pop = 5000
 	#Crossover rate, percent chance that letter will come from 1st parent
@@ -141,7 +158,8 @@ if __name__ == "__main__":
 	mut = 0.01
 	#Max amount of generations to create
 	gen = 2000
-
+	#Get fitness of goal string
+	goal_fitness = fitness(goal_string, goal_string)
 	print("Looking for:" + goal_string + " with max fitness of " + str(fitness(goal_string, goal_string)))
 
 	'''Can seed random number generator and get consistent and identical results for seed'''
@@ -156,13 +174,13 @@ if __name__ == "__main__":
 	print("Done in", end-start, "Writing to file")
 
 	#Create file name
-	filename = "pop" + str(pop) + "-cross0," + str(cross)[2:] + "-mutate0," + str(mut)[2:] + "-genmax" + str(gen) + ".txt"
+	filename = goal_string[:5] + "pop" + str(pop) + "-cross0," + str(cross)[2:] + "-mutate0," + str(mut)[2:] + "-genmax" + str(gen) + ".txt"
 	#Check if solution was ever found
-	if max(generation_done[len(generation_done)-1])[0] == len(goal_string):
+	if generation_done[len(generation_done)-1][0] == goal_fitness:
 		print("Solution found on generation: " + str(len(generation_done)))
 	else:
 		print("No solution found, only approximation")
-	print("Best fit found: " + str(max(generation_done[len(generation_done)-1])))
+	print("Best fit found: " + str(generation_done[len(generation_done)-1]))
 	print("Data saved to",filename)
 	#Write to file
 	with open(filename, 'w') as out_file:
@@ -174,23 +192,15 @@ if __name__ == "__main__":
 		out_file.write("Max number of generations: " + str(gen) + "\n")
 		out_file.write("Time to run: " + str(end-start) + "\n")
 		#Check if solution was ever found
-		if max(generation_done[len(generation_done)-1])[0] == len(goal_string):
+		if generation_done[len(generation_done)-1][0] == goal_fitness:
 			out_file.write("Solution found on generation: " + str(len(generation_done)) + "\n")
 		#Otherwise say it could only find best fit
 		else:
 			out_file.write("No solution found, only best fit" + "\n")
 		#Print the best fit from the last generation
-		out_file.write("Best fit found: " + str(max(generation_done[len(generation_done)-1])) + "\n")
-		'''#Print everything from each generation
-		#Start printing generations
-		for gen_num, i in enumerate(generation_done):
-			out_file.write("Generation " + str(gen_num) + "\n")
-			#Print each citizen of each generation
-			for cit in i:
-				out_file.write(str(cit) + "\n")
-		'''
+		out_file.write("Best fit found: " + str(generation_done[len(generation_done)-1]) + "\n")
 		#Print only the best fit from each generation
 		for gen_num, i in enumerate(generation_done):
 			out_file.write("Generation " + str(gen_num) + "\n")
 			#Print each citizen of each generation
-			out_file.write(str(max(i)) + "\n")
+			out_file.write(str(i) + "\n")

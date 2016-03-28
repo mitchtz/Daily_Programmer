@@ -1,0 +1,74 @@
+Looking for: Test with max fitness of 4
+Population size: 5000
+Crossover rate: 0.5
+Mutation rate: 0.01
+Max number of generations: 2000
+Time to run: 1.1043238639831543
+Solution found on generation: 33
+Best fit found: [4, 'Test']
+Generation 0
+[2, '|esZ']
+Generation 1
+[2, 'Trsv']
+Generation 2
+[2, '}esc']
+Generation 3
+[2, 'heSt']
+Generation 4
+[2, '|esi']
+Generation 5
+[2, '}eEt']
+Generation 6
+[2, '|es{']
+Generation 7
+[2, '|esv']
+Generation 8
+[3, '*est']
+Generation 9
+[2, '}esb']
+Generation 10
+[3, 'Yest']
+Generation 11
+[3, 'Tist']
+Generation 12
+[2, '~~st']
+Generation 13
+[2, '}emt']
+Generation 14
+[3, 'Xest']
+Generation 15
+[2, '~e=t']
+Generation 16
+[2, '~es}']
+Generation 17
+[2, '~esi']
+Generation 18
+[3, 'Yest']
+Generation 19
+[3, '|est']
+Generation 20
+[3, '{est']
+Generation 21
+[3, '|est']
+Generation 22
+[3, '|est']
+Generation 23
+[3, '|est']
+Generation 24
+[3, '|est']
+Generation 25
+[3, '|est']
+Generation 26
+[3, '|est']
+Generation 27
+[3, '|est']
+Generation 28
+[3, '|est']
+Generation 29
+[3, '|est']
+Generation 30
+[3, '~est']
+Generation 31
+[3, '}est']
+Generation 32
+[4, 'Test']
